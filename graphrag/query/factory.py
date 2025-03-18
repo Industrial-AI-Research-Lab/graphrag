@@ -154,7 +154,8 @@ def get_global_search_engine(
         dynamic_community_selection_kwargs.update({
             "model": model,
             # And here we get encoding based on model
-            "token_encoder": tiktoken.encoding_for_model(model_settings.model),
+            # "token_encoder": tiktoken.encoding_for_model(model_settings.model),
+            "token_encoder": tiktoken.encoding_for_model('cl100k_base'),
             "keep_parent": gs_config.dynamic_search_keep_parent,
             "num_repeats": gs_config.dynamic_search_num_repeats,
             "use_summary": gs_config.dynamic_search_use_summary,

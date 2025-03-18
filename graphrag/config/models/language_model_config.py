@@ -107,7 +107,8 @@ class LanguageModelConfig(BaseModel):
             If the model name is not recognized.
         """
         if self.encoding_model.strip() == "":
-            self.encoding_model = tiktoken.encoding_name_for_model(self.model)
+            # self.encoding_model = tiktoken.encoding_name_for_model(self.model)
+            self.encoding_model = "cl100k_base"
 
     max_tokens: int = Field(
         description="The maximum number of tokens to generate.",
