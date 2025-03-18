@@ -56,3 +56,6 @@ docsite/
 
 # Jupyter notebook
 .ipynb_checkpoints/
+
+requirements.txt
+

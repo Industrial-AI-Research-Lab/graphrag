@@ -2,19 +2,17 @@
 
 set -e
 
-# TODO: make a 'main' function that:
-# 1. interprets the first argument as a command
-# 2. implemets match-case to choose appropiate function and sends the remaining arguments to the function
-# 3. there should be the following commands: build-image, push-image, deploy-image
-# 4. build should:
-# - export requirements.txt using poetry
-# - build whl using poetry
-# - build the docker image and name it appropriately (graphrag:latest)
-# 5. push should:
-# - tag the docker image as <repo_name>/<image_name>:latest
-# - push the docker image to the registry
-# 6. deploy should:
-# - do both build and push
+run_image() {
+    local repo_name=${1:-"node2.bdcl:5000"}
+    local image_name="${repo_name}/graphrag:latest"
+
+    docker pull ${image_name}
+
+    docker run -d --name graphrag \
+        -v $(pwd)/graphrag_data:/data \
+        ${image_name} \
+        index --root /data
+}
 
 build_image() {
     echo "Building image..."
@@ -25,7 +23,7 @@ build_image() {
     poetry build
     
     # Build the docker image
-    docker build -t graphrag:latest .
+    docker build -t graphrag:latest -f ./docker/Dockerfile .
     
     echo "Image built successfully: graphrag:latest"
 }
@@ -60,6 +58,7 @@ display_help() {
     echo "  build-image         Build the Docker image"
     echo "  push-image [REPO]   Push the image to registry (default repo: myrepo)"
     echo "  deploy-image [REPO] Build and push the image (default repo: myrepo)"
+    echo "  run-image [REPO]    Run the image using pushed image (default repo: node2.bdcl:5000)"
     echo "  help                Display this help message"
 }
 
@@ -76,6 +75,9 @@ main() {
             ;;
         deploy-image)
             deploy_image "$@"
+            ;;
+        run-image)
+            run_image "$@"
             ;;
         help|--help|-h)
             display_help
