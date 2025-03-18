@@ -2,16 +2,19 @@
 
 set -e
 
+# Define global container name
+CONTAINER_NAME="graphrag"
+
 run_image() {
     local repo_name=${1:-"node2.bdcl:5000"}
-    local image_name="${repo_name}/graphrag:latest"
+    local image_name="${repo_name}/${CONTAINER_NAME}:latest"
 
     docker pull ${image_name}
 
-    docker run -d --name graphrag \
-        -v $(pwd)/graphrag_data:/data \
+    docker run -d --name ${CONTAINER_NAME} \
+        -v $(pwd)/${CONTAINER_NAME}_data:/data \
         ${image_name} \
-        index --root /data
+        graphrag index --root /data
 }
 
 build_image() {
@@ -23,9 +26,9 @@ build_image() {
     poetry build
     
     # Build the docker image
-    docker build -t graphrag:latest -f ./docker/Dockerfile .
+    docker build -t ${CONTAINER_NAME}:latest -f ./docker/Dockerfile .
     
-    echo "Image built successfully: graphrag:latest"
+    echo "Image built successfully: ${CONTAINER_NAME}:latest"
 }
 
 push_image() {
@@ -33,12 +36,12 @@ push_image() {
     
     echo "Pushing image to registry..."
     # Tag the docker image
-    docker tag graphrag:latest ${repo_name}/graphrag:latest
+    docker tag ${CONTAINER_NAME}:latest ${repo_name}/${CONTAINER_NAME}:latest
     
     # Push the docker image to the registry
-    docker push ${repo_name}/graphrag:latest
+    docker push ${repo_name}/${CONTAINER_NAME}:latest
     
-    echo "Image pushed successfully: ${repo_name}/graphrag:latest"
+    echo "Image pushed successfully: ${repo_name}/${CONTAINER_NAME}:latest"
 }
 
 deploy_image() {
@@ -51,6 +54,12 @@ deploy_image() {
     echo "Deployment complete!"
 }
 
+rm_container() {
+    echo "Removing container ${CONTAINER_NAME}..."
+    docker rm -f ${CONTAINER_NAME} 2>/dev/null || echo "Container ${CONTAINER_NAME} not found or already removed"
+    echo "Container removed successfully"
+}
+
 display_help() {
     echo "Usage: grctl COMMAND [OPTIONS]"
     echo ""
@@ -59,6 +68,7 @@ display_help() {
     echo "  push-image [REPO]   Push the image to registry (default repo: myrepo)"
     echo "  deploy-image [REPO] Build and push the image (default repo: myrepo)"
     echo "  run-image [REPO]    Run the image using pushed image (default repo: node2.bdcl:5000)"
+    echo "  rm                  Remove the ${CONTAINER_NAME} container"
     echo "  help                Display this help message"
 }
 
@@ -78,6 +88,9 @@ main() {
             ;;
         run-image)
             run_image "$@"
+            ;;
+        rm)
+            rm_container "$@"
             ;;
         help|--help|-h)
             display_help
