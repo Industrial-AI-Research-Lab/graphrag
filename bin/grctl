@@ -4,10 +4,11 @@ set -e
 
 # Define global container name
 CONTAINER_NAME="graphrag"
+TAG="tat"
 
 run_image() {
     local repo_name=${1:-"node2.bdcl:5000"}
-    local image_name="${repo_name}/${CONTAINER_NAME}:latest"
+    local image_name="${repo_name}/${CONTAINER_NAME}:${TAG}"
 
     docker pull ${image_name}
 
@@ -26,9 +27,9 @@ build_image() {
     poetry build
     
     # Build the docker image
-    docker build -t ${CONTAINER_NAME}:latest -f ./docker/Dockerfile .
+    docker build -t ${CONTAINER_NAME}:${TAG} -f ./docker/Dockerfile .
     
-    echo "Image built successfully: ${CONTAINER_NAME}:latest"
+    echo "Image built successfully: ${CONTAINER_NAME}:${TAG}"
 }
 
 push_image() {
@@ -36,16 +37,16 @@ push_image() {
     
     echo "Pushing image to registry..."
     # Tag the docker image
-    docker tag ${CONTAINER_NAME}:latest ${repo_name}/${CONTAINER_NAME}:latest
+    docker tag ${CONTAINER_NAME}:${TAG} ${repo_name}/${CONTAINER_NAME}:${TAG}
     
     # Push the docker image to the registry
-    docker push ${repo_name}/${CONTAINER_NAME}:latest
+    docker push ${repo_name}/${CONTAINER_NAME}:${TAG}
     
-    echo "Image pushed successfully: ${repo_name}/${CONTAINER_NAME}:latest"
+    echo "Image pushed successfully: ${repo_name}/${CONTAINER_NAME}:${TAG}"
 }
 
 deploy_image() {
-    local repo_name=${1:-"myrepo"}
+    local repo_name=${1:-"node2.bdcl:5000"}
     
     # Do both build and push
     build_image

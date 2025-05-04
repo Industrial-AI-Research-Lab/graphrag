@@ -1,0 +1,1752 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ADGM" />
+    <node id="AML RULEBOOK" />
+    <node id="FEDERAL AML LEGISLATION" />
+    <node id="U.A.E. CRIMINAL LAW" />
+    <node id="FEDERAL LAW NO. (7) OF 2014" />
+    <node id="FEDERAL DECREE LAW NO. (20) OF 2018" />
+    <node id="CABINET DECISION NO. (10) OF 2019" />
+    <node id="CABINET DECISION NO. (74) OF 2020" />
+    <node id="RELEVANT PERSON" />
+    <node id="REGULATOR" />
+    <node id="TARGETED FINANCIAL SANCTIONS" />
+    <node id="COMBATTING TERRORISM OFFENCES" />
+    <node id="ANTI-MONEY LAUNDERING" />
+    <node id="COMBATTING THE FINANCING OF TERRORISM" />
+    <node id="FINANCING OF ILLEGAL ORGANISATIONS" />
+    <node id="PROLIFERATION FINANCING" />
+    <node id="SANCTIONS COMPLIANCE" />
+    <node id="CREDIT RATING AGENCY" />
+    <node id="RECOGNISED BODY" />
+    <node id="REPRESENTATIVE OFFICE" />
+    <node id="DNFBP" />
+    <node id="NPO" />
+    <node id="GOVERNING BODY" />
+    <node id="SENIOR MANAGEMENT" />
+    <node id="MLRO" />
+    <node id="EMPLOYEE" />
+    <node id="FINANCIAL SERVICES AND MARKETS REGULATIONS 2015" />
+    <node id="SECTION 15A OF FSMR" />
+    <node id="UN SECURITY COUNCIL RESOLUTIONS" />
+    <node id="RELEVANT PERSON&lt;|(&quot;ENTITY&quot;" />
+    <node id="RELEVANT PERSONS" />
+    <node id="U.A.E." />
+    <node id="FATF" />
+    <node id="LOCAL TERRORIST LIST" />
+    <node id="CDD" />
+    <node id="DNFBPS" />
+    <node id="NPOS" />
+    <node id="EMPLOYEE(S)" />
+    <node id="DIRECTORS" />
+    <node id="ARTICLE 3 OF FEDERAL DECREE BY LAW NO. 20 OF 2018" />
+    <node id="ARTICLE 27 OF FEDERAL DECREE LAW NO. (20) OF 2018" />
+    <node id="UNSC" />
+    <node id="FINANCIAL ACTION TASK FORCE" />
+    <node id="BASEL COMMITTEE ON BANKING SUPERVISION" />
+    <node id="WOLFSBERG GROUP" />
+    <node id="UNITED NATIONS SECURITY COUNCIL" />
+    <node id="EUROPEAN UNION" />
+    <node id="U.K. HM TREASURY" />
+    <node id="U.S. OFFICE OF FOREIGN ASSETS CONTROL" />
+    <node id="CUSTOMER" />
+    <node id="COUNTERPARTY" />
+    <node id="ADGM ENTITY" />
+    <node id="AUTHORISED PERSON" />
+    <node id="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" />
+    <node id="CORRESPONDENT BANKING CLIENT" />
+    <node id="CLIENT" />
+    <node id="CORRESPONDENT BANK" />
+    <node id="DESIGNATED NON-FIN(&quot;ENTITY&quot;" />
+    <node id="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" />
+    <node id="FINANCIAL INSTITUTION" />
+    <node id="FINANCIAL SERVICES REGULATOR" />
+    <node id="FSMR" />
+    <node id="GOAML" />
+    <node id="FIU" />
+    <node id="HM TREASURY" />
+    <node id="IMF" />
+    <node id="INTERNATIONAL ORGANISATION" />
+    <node id="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <node id="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <node id="LEGAL PERSON" />
+    <node id="MONEY LAUNDERING REPORTING OFFICER (MLRO)" />
+    <node id="GOVERNMENTAL ORGANISATION" />
+    <node id="MULTILATERAL DEVELOPMENT BANK" />
+    <node id="RECOGNIZED BODY" />
+    <node id="REAL ESTATE AGENCY" />
+    <node id="DEALER IN PRECIOUS METALS OR PRECIOUS STONES" />
+    <node id="DEALER IN SALEABLE ITEMS" />
+    <node id="RULE &#8206;8.3.3(4)" />
+    <node id="BODY CORPORATE" />
+    <node id="PARENT" />
+    <node id="SHAREHOLDER" />
+    <node id="RULE" />
+    <node id="REGULATED FINANCIAL INSTITUTION" />
+    <node id="U.A.E. CABINET" />
+    <node id="TERRORIST FINANCING" />
+    <node id="ANTI-MONEY LAUNDERING (AML)" />
+    <node id="NATIONAL ANTI-MONEY LAUNDERING AND COMBATING FINANCING OF TERRORISM AND FINANCING OF ILLEGAL ORGANIZATIONS COMMITTEE (NAMLCFTC)" />
+    <node id="OFFICE OF FOREIGN ASSETS CONTROL (OFAC)" />
+    <node id="SANCTIONS" />
+    <node id="HOLDING COMPANY" />
+    <node id="PARTNER" />
+    <node id="PARTNERSHIP" />
+    <node id="PAYMENT TRANSACTION" />
+    <node id="PENAL CODE" />
+    <node id="POLITICALLY EXPOSED PERSON (PEP)" />
+    <node id="RECOGNISED INVESTMENT EXCHANGE" />
+    <node id="RECOGNISED CLEARING HOUSE" />
+    <node id="FINANCIAL SERVICES REGULATORY AUTHORITY" />
+    <node id="RESTRICTED SCOPE COMPANY" />
+    <node id="SHELL BANK" />
+    <node id="FINANCIAL SERVICES PERMISSION" />
+    <node id="RISK-BASED APPROACH (RBA)" />
+    <node id="SIMPLIFIED CUSTOMER DUE DILIGENCE" />
+    <node id="GOVERNMENT" />
+    <node id="STATE" />
+    <node id="NON-PROFIT ORGANISATION (NPO)" />
+    <node id="EXECUTIVE MANAGEMENT" />
+    <node id="SANCTIONS LIST" />
+    <node id="HM TREASURY OF THE UNITED KINGDOM" />
+    <node id="BRANCH" />
+    <node id="AUDITOR" />
+    <node id="ISSUER" />
+    <node id="NAMLCFTC" />
+    <node id="REGULATED ACTIVITY" />
+    <node id="RECOGNITION ORDER" />
+    <node id="PNMR" />
+    <node id="DEPOSITORY RECEIPT" />
+    <node id="GROUP ENTITIES" />
+    <node id="UN CONSOLIDATED LIST" />
+    <node id="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" />
+    <node id="SOURCE OF FUNDS" />
+    <node id="SOURCE OF WEALTH" />
+    <node id="VIRTUAL ASSET" />
+    <node id="UNLAWFUL ORGANISATION" />
+    <node id="WAIVER" />
+    <node id="WMD" />
+    <node id="SPOT COMMODITY" />
+    <node id="TRANSACTION" />
+    <node id="UNDERTAKING" />
+    <node id="DEPOSITORY RECEIPTS" />
+    <node id="EMPLOYEES" />
+    <node id="ANNUAL REVIEW" />
+    <node id="BUSINESS RISK ASSESSMENT" />
+    <node id="INTERNAL AUDIT" />
+    <node id="INDEPENDENT AUDITORS" />
+    <node id="CUSTOMER DOCUMENTATION" />
+    <node id="SUSPICIOUS ACTIVITY REPORTS" />
+    <node id="FOREIGN REGULATIONS" />
+    <node id="PERIODIC REVIEW" />
+    <node id="COMMUNICATION" />
+    <node id="ADDITIONAL MEASURES" />
+    <node id="POLICY COMMUNICATION" />
+    <node id="POLICY REVIEW" />
+    <node id="POLICY IMPLEMENTATION" />
+    <node id="POLICY COMPLIANCE" />
+    <node id="POLICY ENFORCEMENT" />
+    <node id="POLICY DOCUMENTATION" />
+    <node id="POLICY AUDIT" />
+    <node id="POLICY TRAINING" />
+    <node id="POLICY RISK ASSESSMENT" />
+    <node id="POLICY REPORTING" />
+    <node id="POLICY MONITORING" />
+    <node id="POLICY ENHANCEMENT" />
+    <node id="POLICY OVERSIGHT" />
+    <node id="POLICY COORDINATION" />
+    <node id="POLICY COMPLIANCE WITH FOREIGN REGULATIONS" />
+    <node id="POLICY COMPLIANCE WITH LOCAL REGULATIONS" />
+    <node id="POLICY COMPLIANCE WITH TARGETED FINANCIAL SANCTIONS" />
+    <node id="POLICY COMPLIANCE WITH UN CONSOLIDATED LIST" />
+    <node id="POLICY COMPLIANCE WITH LOCAL TERRORIST LIST" />
+    <node id="POLICY COMPLIANCE WITH VIRTUAL ASSETS" />
+    <node id="POLICY COMPLIANCE WITH UNLAWFUL ORGANISATIONS" />
+    <node id="POLICY COMPLIANCE WITH WMD" />
+    <node id="POLICY COMPLIANCE WITH SIMPLIFIED CUSTOMER DUE DILIGENCE" />
+    <node id="POLICY COMPLIANCE WITH SPOT COMMODITIES" />
+    <node id="POLICY COMPLIANCE WITH DEPOSITORY RECEIPTS" />
+    <node id="POLICY COMPLIANCE WITH EMPLOYEES" />
+    <node id="POLICY COMPLIANCE WITH ANNUAL REVIEW" />
+    <node id="POLICY COMPLIANCE WITH BUSINESS RISK ASSESSMENT" />
+    <node id="POLICY COMPLIANCE WITH INTERNAL AUDIT" />
+    <node id="POLICY COMPLIANCE WITH INDEPENDENT AUDITORS" />
+    <node id="POLICY COMPLIANCE WITH GOVERNING BODY" />
+    <node id="POLICY COMPLIANCE WITH CUSTOMER DOCUMENTATION" />
+    <node id="POLICY COMPLIANCE WITH SUSPICIOUS ACTIVITY REPORTS" />
+    <node id="POLICY COMPLIANCE WITH PERIODIC REVIEW" />
+    <node id="POLICY COMPLIANCE WITH COMMUNICATION" />
+    <node id="POLICY COMPLIANCE WITH ADDITIONAL MEASURES" />
+    <node id="FATF RECOMMENDATIONS" />
+    <node id="FOREIGN JURISDICTION" />
+    <node id="ABU DHABI GLOBAL MARKET (ADGM)" />
+    <node id="BUSINESS DAY" />
+    <node id="SUBSIDIARY" />
+    <node id="GROUP" />
+    <node id="OECD" />
+    <node id="EKYC" />
+    <node id="BIOMETRIC AUTHENTICATION" />
+    <node id="RULE 4.5.1" />
+    <node id="RULE 6.1.1" />
+    <node id="RULE 6.1.2" />
+    <node id="RULE 7.1.1" />
+    <node id="RULE 14.2.2" />
+    <node id="RULE 4.6.1" />
+    <node id="RULE 4.5.7" />
+    <node id="RULE 5.1.1" />
+    <node id="RULE 4.8.1" />
+    <node id="ANNUAL AML RETURN" />
+    <node id="RULE 4.6.1(1)(A)" />
+    <node id="RULE 4.6.1(1)(B)" />
+    <node id="RULE 4.6.1(1)(C)" />
+    <node id="RULE 4.6.1(1)(D)" />
+    <node id="RULE 4.6.1(1)(E)" />
+    <node id="RULE 4.5.1(1)" />
+    <node id="RULE 4.5.1(2)" />
+    <node id="RULE 4.5.1(3)" />
+    <node id="RULE 4.5.1(4)" />
+    <node id="RULE 4.6.1(2)" />
+    <node id="RULE 4.6.1(2)(A)" />
+    <node id="RULE 4.6.1(2)(B)" />
+    <node id="RULE 4.5.7(1)" />
+    <node id="RULE 4.5.7(1)(A)" />
+    <node id="RULE 4.5.7(1)(B)" />
+    <node id="RULE 4.5.7(1)(C)" />
+    <node id="RBA" />
+    <node id="CUSTOMER RISK ASSESSMENT" />
+    <node id="TARGETED FINANCIAL SANCTIONS RISK ASSESSMENT" />
+    <node id="ANTI-MONEY LAUNDERING AND TERRORIST FINANCING (AML/TFS)" />
+    <node id="RULE 6.2.1" />
+    <node id="RULE 6.2.1(C)" />
+    <node id="RULE 8.1.1" />
+    <node id="RULE 8.3.1" />
+    <node id="RULE 8.1.1(3)" />
+    <node id="RULE 8.4.1" />
+    <node id="RULE 8.1.1(4)" />
+    <node id="RULE 8.5.1" />
+    <node id="RULE 5.1.1(B)(III)" />
+    <node id="CHAPTER 6" />
+    <node id="CHAPTER 7" />
+    <node id="PEP" />
+    <node id="BENEFICIAL OWNER" />
+    <node id="AML/TFS" />
+    <node id="NFTF BUSINESS" />
+    <node id="EKYC SYSTEMS" />
+    <node id="RULE 6.1.1(B)" />
+    <node id="RULE 8.6.1" />
+    <node id="CHAPTER 8" />
+    <node id="REGLAB" />
+    <node id="WORLD BANK" />
+    <node id="LEGAL ARRANGEMENT" />
+    <node id="NOMINEE SHAREHOLDER" />
+    <node id="SHADOW DIRECTOR" />
+    <node id="CASH INTENSIVE BUSINESS" />
+    <node id="PRIVATE BANKING" />
+    <node id="NFTF" />
+    <node id="ELECTRONIC SIGNATURE" />
+    <node id="EMBARGOS" />
+    <node id="TERRORISM" />
+    <node id="MONEY LAUNDERING" />
+    <node id="ILLEGAL DRUGS" />
+    <node id="PUBLIC BODY" />
+    <node id="PUBLICLY OWNED ENTERPRISE" />
+    <node id="AUTHORIZED PERSON" />
+    <node id="SECURITIES" />
+    <node id="RISK ASSESSMENT" />
+    <node id="SUBSIDIARY OF A REGULATED FINANCIAL INSTITUTION" />
+    <node id="REGULATED EXCHANGE" />
+    <node id="CREDIBLE SOURCE" />
+    <node id="LAW FIRM" />
+    <node id="ACCOUNTING FIRM" />
+    <node id="ENHANCED CDD" />
+    <node id="SIMPLIFIED CDD" />
+    <node id="INSURANCE COMPANY" />
+    <node id="PENSION SCHEME" />
+    <node id="LEGAL PERSON OR LEGAL ARRANGEMENT" />
+    <node id="PARENT OF A SUBSIDIARY" />
+    <node id="ANONYMOUS ACCOUNT" />
+    <node id="NOMINEE ACCOUNT" />
+    <node id="BEARER SHARES" />
+    <node id="ADGM REGISTRAR OF COMPANIES" />
+    <node id="CUSTOMER DUE DILIGENCE" />
+    <node id="PROSPECTIVE CUSTOMER" />
+    <node id="ACCOUNT HOLDER" />
+    <node id="CDD PROCEDURES" />
+    <node id="AML/TFS FUNCTIONS" />
+    <node id="COMPLIANCE AND AUDIT FUNCTIONS" />
+    <node id="NUMBERED ACCOUNT" />
+    <node id="DEALER IN PRECIOUS METALS" />
+    <node id="DEALER IN PRECIOUS STONES" />
+    <node id="NOTARY FIRM" />
+    <node id="INDEPENDENT LEGAL BUSINESS" />
+    <node id="REAL PROPERTY TRANSACTION" />
+    <node id="FINANCIAL TRANSACTION" />
+    <node id="RULE 8.1.1(1)(B)" />
+    <node id="RULE 8.1.2(1)" />
+    <node id="RULE 8.2.1(1)(B)" />
+    <node id="RULE 8.2.1(3)" />
+    <node id="RULE 8.7.1" />
+    <node id="RULE 8.7(&quot;ENTITY&quot;" />
+    <node id="CUSTOMER DUE DILIGENCE (CDD)" />
+    <node id="FINANCIAL CRIME" />
+    <node id="FRAUD" />
+    <node id="VERIFICATION OF IDENTITY" />
+    <node id="BUSINESS RELATIONSHIP" />
+    <node id="SUSPICIOUS ACTIVITY REPORT (SAR)" />
+    <node id="TIPPING OFF" />
+    <node id="LIFE INSURANCE POLICY" />
+    <node id="BENEFICIARY" />
+    <node id="POLICY PAYOUT" />
+    <node id="SUBSCRIPTION MONIES" />
+    <node id="TIME CRITICAL TRANSACTION" />
+    <node id="IMMEDIATE INSURANCE COVER" />
+    <node id="MATERIAL CHANGE" />
+    <node id="SUSPICIOUS ACTIVITY" />
+    <node id="RULE 7.1.1(3)" />
+    <node id="RULE 7.1.2" />
+    <node id="UAE PASS" />
+    <node id="KYC SYSTEM" />
+    <node id="TRUST" />
+    <node id="FOUNDATION" />
+    <node id="NATURAL PERSON" />
+    <node id="LISTED BODY CORPORATE" />
+    <node id="FEDERAL GOVERNMENT OF THE U.A.E." />
+    <node id="MEMBER EMIRATES OF THE U.A.E." />
+    <node id="EMIRI DECREE" />
+    <node id="MARKET INFRASTRUCTURE RULEBOOK (MIR)" />
+    <node id="RULE 6.1" />
+    <node id="RULE 9.3" />
+    <node id="RULE 8.3.1(1)(B)" />
+    <node id="RULE 8.3.3" />
+    <node id="RULE 8.3.4" />
+    <node id="SETTLOR" />
+    <node id="TRUSTEE" />
+    <node id="FOUNDER" />
+    <node id="FOUNDATION COUNCIL" />
+    <node id="GUARDIAN" />
+    <node id="FOUNDATION COUNCIL MEMBERS" />
+    <node id="BENEFICIARIES" />
+    <node id="RETAIL INVESTMENT FUND" />
+    <node id="FOUNDING PERSON" />
+    <node id="AML/TFS REGULATION" />
+    <node id="CORRUPTION OFFENCES" />
+    <node id="EKYC SYSTEM" />
+    <node id="HIGH RISK COUNTRY TRANSACTION REPORT" />
+    <node id="HIGH RISK COUNTRY ACTIVITY REPORT" />
+    <node id="TRANSACTIONS" />
+    <node id="RULE 8.3.1(1)(D)" />
+    <node id="RULE 8.6.1(D)" />
+    <node id="RULE 8.6.1(E)" />
+    <node id="RULE 7.1.1(1)(B)" />
+    <node id="RULE 14.3.1(C)" />
+    <node id="SANCTIONS LISTS" />
+    <node id="FINANCIAL INTELLIGENCE UNIT (FIU)" />
+    <node id="CUSTOMER RELATIONSHIP" />
+    <node id="CUSTOMER IDENTIFICATION UPDATES" />
+    <node id="IDENTIFICATION DOCUMENT VERIFICATION" />
+    <node id="ONGOING MONITORING PROGRAMME" />
+    <node id="MONETARY THRESHOLD" />
+    <node id="TRANSACTION TYPE" />
+    <node id="CDD DOCUMENTATION REQUIREMENTS" />
+    <node id="UNUSUAL TRANSACTION" />
+    <node id="RULE 8.8.1" />
+    <node id="THIRD PARTY" />
+    <node id="RULE 8.7.1(1)" />
+    <node id="AUTHORISED PERSON OR RECOGNISED BODY" />
+    <node id="GROUP-WIDE POLICY" />
+    <node id="NON-ADGM FINANCIAL SERVICES REGULATOR" />
+    <node id="THIRD PARTY RELIANCE" />
+    <node id="GROUP MEMBER" />
+    <node id="CDD INFORMATION" />
+    <node id="CERTIFIED COPIES" />
+    <node id="AML/TFS COMPLIANCE" />
+    <node id="PORTABILITY OF CDD INFORMATION" />
+    <node id="GROUP POLICY" />
+    <node id="GROUP SUPERVISION" />
+    <node id="RULE 8.3" />
+    <node id="RULE 8.4" />
+    <node id="RULE 8.7" />
+    <node id="RULE 8.7.1(1)(A) TO (F)" />
+    <node id="MENAFATF" />
+    <node id="GULF CO-OPERATION COUNCIL" />
+    <node id="BUSINESS PARTNER" />
+    <node id="ACQUIRED BUSINESS" />
+    <node id="SERVICE PROVIDER" />
+    <node id="RULE 9.1.1(1)" />
+    <node id="RULE 10.2.2" />
+    <node id="RULE 9.3.1" />
+    <node id="RULE 9.3.1A" />
+    <node id="U.A.E. AUTHORITIES" />
+    <node id="WOLFSBERG ANTI-MONEY LAUNDERING PRINCIPLES FOR CORRESPONDENT BANKING" />
+    <node id="RELATED ENTITY" />
+    <node id="CREDIT RATING AGENCIES" />
+    <node id="REPRESENTATIVE OFFICES" />
+    <node id="AGENT" />
+    <node id="CORRESPONDENT BANKING" />
+    <node id="RESPONDENT BANK" />
+    <node id="RULE &#8206;9.3.1" />
+    <node id="RULE &#8206;8.3.1" />
+    <node id="GEN 3.3.31" />
+    <node id="GEN 3.3.32" />
+    <node id="PRU 6.8" />
+    <node id="MIR 2.14" />
+    <node id="RULE 9.2" />
+    <node id="RULE 10.3.2" />
+    <node id="FATF RECOMMENDATION NUMBER 15" />
+    <node id="FATF RECOMMENDATION NUMBER 16" />
+    <node id="BANK" />
+    <node id="CORRESPONDENT BANKING RELATIONSHIP" />
+    <node id="WIRE TRANSFER" />
+    <node id="VIRTUAL ASSETS" />
+    <node id="BATCH TRANSFER" />
+    <node id="ORIGINATOR" />
+    <node id="ACCOUNT NUMBER" />
+    <node id="WALLET ADDRESS" />
+    <node id="TRAVEL RULE" />
+    <node id="FATF INTERPRETATIVE NOTE (R.15/INR.15)" />
+    <node id="SWIFT" />
+    <node id="CABINET DECISION NO. 74 OF 2020" />
+    <node id="RULE 10.3.2(3)" />
+    <node id="RULE 10.4.1" />
+    <node id="RULE 11.1.1" />
+    <node id="RULE 11.1.1(2)" />
+    <node id="RULE 11.1.1(3)" />
+    <node id="RULE 11.1.1(6)" />
+    <node id="RULE 11.1.1(7)" />
+    <node id="RULE 11.1.1(8)" />
+    <node id="RULE 11.1.1(1)" />
+    <node id="RULE 11.1.1(4)" />
+    <node id="RULE 11.1.1(5)" />
+    <node id="EOCN" />
+    <node id="GOVERNMENT OF THE U.A.E." />
+    <node id="CENTRAL BANK OF THE U.A.E." />
+    <node id="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <node id="TARGETED FINANCIAL SANCTIONS LISTS" />
+    <node id="PNMRS" />
+    <node id="FFRS" />
+    <node id="TIRUZIA" />
+    <node id="SAMUEL NAMARA" />
+    <node id="ALHAMIA PRISON" />
+    <node id="BRATINAS" />
+    <node id="MEGGIE TAZBAH" />
+    <node id="VISION HOLDINGS" />
+    <node id="TECHGLOBAL" />
+    <node id="GLOBAL EXCHANGE" />
+    <node id="DURKE BATAGLANI" />
+    <node id="FIRUZABAD" />
+    <node id="OFAC" />
+    <node id="RULE 11.2.1" />
+    <node id="CHAPTER 14" />
+    <node id="GEN RULE 5.5.1" />
+    <node id="GEN RULE 5.5.2" />
+    <node id="MIR RULE" />
+    <node id="RULE 12.1.7" />
+    <node id="PERSON ON WHOSE BEHALF THE CUSTOMER ACTS" />
+    <node id="THIRD-PARTY PROVIDER" />
+    <node id="CORPORATE GROUP" />
+    <node id="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" />
+    <node id="CDD MEASURES" />
+    <node id="OPERATIONAL STAFF" />
+    <node id="CUSTOMER CONTACT EMPLOYEES" />
+    <node id="CUSTOMER MONIES OR ASSETS HANDLERS" />
+    <node id="NEW RELEVANT EMPLOYEES" />
+    <node id="RULE 13.1.1" />
+    <node id="CHAPTER 11" />
+    <node id="SAR/STR" />
+    <node id="LINE MANAGER" />
+    <node id="ADGM COURTS" />
+    <node id="RULE 14.3.1" />
+    <node id="RULE 14.2" />
+    <node id="RULE 14.3" />
+    <node id="RULE 15.4" />
+    <node id="RULE 15.1.1" />
+    <node id="RULE 15.2.1" />
+    <node id="RULE 3.2.1" />
+    <node id="AML 15.4" />
+    <node id="RULE 15.1" />
+    <node id="RULE 15.2" />
+    <node id="RULE 3.2" />
+    <node id="RULE 15.4.1" />
+    <node id="REGISTRAR OF COMPANIES" />
+    <node id="COMPLIANCE WITH AML/TFS REQUIREMENTS" />
+    <node id="REGISTRATION AS DNFBP" />
+    <node id="SUSPENSION OR WITHDRAWAL OF REGISTRATION" />
+    <node id="GRANT OF APPLICATION" />
+    <node id="REFUSAL OF APPLICATION" />
+    <node id="CO-ORDINATION BETWEEN REGULATOR AND REGISTRAR OF COMPANIES" />
+    <node id="FIT AND PROPER ASSESSMENT" />
+    <node id="FIT AND PROPER CRITERIA" />
+    <node id="FIT AND PROPER APPLICATION" />
+    <node id="FIT AND PROPER MATERIAL CHANGE" />
+    <node id="FIT AND PROPER DEEMED REGISTRATION" />
+    <node id="FIT AND PROPER REFUSAL" />
+    <node id="FIT AND PROPER GRANT" />
+    <node id="FIT AND PROPER NOTIFICATION" />
+    <node id="FIT AND PROPER CESSATION" />
+    <node id="FIT AND PROPER SUSPENSION" />
+    <node id="FIT AND PROPER WITHDRAWAL" />
+    <node id="FIT AND PROPER CO-ORDINATION" />
+    <node id="FIT AND PROPER DISCLOSURE" />
+    <node id="NOTIFICATION OF CHANGES" />
+    <node id="DONORS" />
+    <node id="FINANCIAL INSTITUTIONS" />
+    <node id="ASSOCIATED NPOS" />
+    <node id="RULE 16.1.2" />
+    <edge source="ADGM" target="AML RULEBOOK" />
+    <edge source="ADGM" target="UNSC" />
+    <edge source="ADGM" target="FINANCIAL ACTION TASK FORCE" />
+    <edge source="ADGM" target="BASEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="ADGM" target="WOLFSBERG GROUP" />
+    <edge source="ADGM" target="U.A.E." />
+    <edge source="ADGM" target="TARGETED FINANCIAL SANCTIONS" />
+    <edge source="ADGM" target="EUROPEAN UNION" />
+    <edge source="ADGM" target="U.K. HM TREASURY" />
+    <edge source="ADGM" target="U.S. OFFICE OF FOREIGN ASSETS CONTROL" />
+    <edge source="ADGM" target="ADGM ENTITY" />
+    <edge source="ADGM" target="AUTHORISED PERSON" />
+    <edge source="ADGM" target="CREDIT RATING AGENCY" />
+    <edge source="ADGM" target="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" />
+    <edge source="ADGM" target="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" />
+    <edge source="ADGM" target="FATF" />
+    <edge source="ADGM" target="FINANCIAL INSTITUTION" />
+    <edge source="ADGM" target="FINANCIAL SERVICES REGULATOR" />
+    <edge source="ADGM" target="FSMR" />
+    <edge source="ADGM" target="GOAML" />
+    <edge source="ADGM" target="FIU" />
+    <edge source="ADGM" target="HM TREASURY" />
+    <edge source="ADGM" target="IMF" />
+    <edge source="ADGM" target="INTERNATIONAL ORGANISATION" />
+    <edge source="ADGM" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="ADGM" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="ADGM" target="LEGAL PERSON" />
+    <edge source="ADGM" target="LOCAL TERRORIST LIST" />
+    <edge source="ADGM" target="MONEY LAUNDERING REPORTING OFFICER (MLRO)" />
+    <edge source="ADGM" target="GOVERNMENTAL ORGANISATION" />
+    <edge source="ADGM" target="MULTILATERAL DEVELOPMENT BANK" />
+    <edge source="ADGM" target="RECOGNIZED BODY" />
+    <edge source="ADGM" target="REAL ESTATE AGENCY" />
+    <edge source="ADGM" target="DEALER IN PRECIOUS METALS OR PRECIOUS STONES" />
+    <edge source="ADGM" target="DEALER IN SALEABLE ITEMS" />
+    <edge source="ADGM" target="REGULATED FINANCIAL INSTITUTION" />
+    <edge source="ADGM" target="REGULATED ACTIVITY" />
+    <edge source="ADGM" target="RECOGNITION ORDER" />
+    <edge source="ADGM" target="RELEVANT PERSON" />
+    <edge source="ADGM" target="REGULATOR" />
+    <edge source="ADGM" target="LAW FIRM" />
+    <edge source="ADGM" target="ACCOUNTING FIRM" />
+    <edge source="ADGM" target="RECOGNISED BODY" />
+    <edge source="ADGM" target="DNFBP" />
+    <edge source="AML RULEBOOK" target="FEDERAL AML LEGISLATION" />
+    <edge source="AML RULEBOOK" target="RELEVANT PERSON" />
+    <edge source="AML RULEBOOK" target="REGULATOR" />
+    <edge source="AML RULEBOOK" target="U.A.E. CRIMINAL LAW" />
+    <edge source="AML RULEBOOK" target="CREDIT RATING AGENCY" />
+    <edge source="AML RULEBOOK" target="RECOGNISED BODY" />
+    <edge source="AML RULEBOOK" target="REPRESENTATIVE OFFICE" />
+    <edge source="AML RULEBOOK" target="DNFBP" />
+    <edge source="AML RULEBOOK" target="NPO" />
+    <edge source="AML RULEBOOK" target="RELEVANT PERSONS" />
+    <edge source="AML RULEBOOK" target="EUROPEAN UNION" />
+    <edge source="AML RULEBOOK" target="U.K. HM TREASURY" />
+    <edge source="AML RULEBOOK" target="U.S. OFFICE OF FOREIGN ASSETS CONTROL" />
+    <edge source="AML RULEBOOK" target="TARGETED FINANCIAL SANCTIONS" />
+    <edge source="AML RULEBOOK" target="BRANCH" />
+    <edge source="AML RULEBOOK" target="SUBSIDIARY" />
+    <edge source="AML RULEBOOK" target="GROUP" />
+    <edge source="AML RULEBOOK" target="MLRO" />
+    <edge source="AML RULEBOOK" target="FIU" />
+    <edge source="AML RULEBOOK" target="OECD" />
+    <edge source="AML RULEBOOK" target="AUTHORISED PERSON" />
+    <edge source="AML RULEBOOK" target="SANCTIONS" />
+    <edge source="AML RULEBOOK" target="CDD" />
+    <edge source="AML RULEBOOK" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" />
+    <edge source="FEDERAL AML LEGISLATION" target="U.A.E. CRIMINAL LAW" />
+    <edge source="FEDERAL AML LEGISLATION" target="FEDERAL LAW NO. (7) OF 2014" />
+    <edge source="FEDERAL AML LEGISLATION" target="FEDERAL DECREE LAW NO. (20) OF 2018" />
+    <edge source="FEDERAL AML LEGISLATION" target="CABINET DECISION NO. (10) OF 2019" />
+    <edge source="FEDERAL AML LEGISLATION" target="CABINET DECISION NO. (74) OF 2020" />
+    <edge source="FEDERAL AML LEGISLATION" target="RELEVANT PERSON" />
+    <edge source="FEDERAL AML LEGISLATION" target="REGULATOR" />
+    <edge source="FEDERAL AML LEGISLATION" target="TARGETED FINANCIAL SANCTIONS" />
+    <edge source="FEDERAL AML LEGISLATION" target="COMBATTING TERRORISM OFFENCES" />
+    <edge source="FEDERAL AML LEGISLATION" target="ANTI-MONEY LAUNDERING" />
+    <edge source="FEDERAL AML LEGISLATION" target="COMBATTING THE FINANCING OF TERRORISM" />
+    <edge source="FEDERAL AML LEGISLATION" target="FINANCING OF ILLEGAL ORGANISATIONS" />
+    <edge source="FEDERAL AML LEGISLATION" target="PROLIFERATION FINANCING" />
+    <edge source="FEDERAL AML LEGISLATION" target="SANCTIONS COMPLIANCE" />
+    <edge source="FEDERAL AML LEGISLATION" target="BRANCH" />
+    <edge source="FEDERAL AML LEGISLATION" target="SUBSIDIARY" />
+    <edge source="FEDERAL AML LEGISLATION" target="GROUP" />
+    <edge source="FEDERAL AML LEGISLATION" target="AUTHORISED PERSON" />
+    <edge source="FEDERAL AML LEGISLATION" target="AML/TFS" />
+    <edge source="FEDERAL AML LEGISLATION" target="RULE 8.6.1(D)" />
+    <edge source="FEDERAL AML LEGISLATION" target="RULE 8.7.1" />
+    <edge source="FEDERAL AML LEGISLATION" target="RULE 14.3.1(C)" />
+    <edge source="FEDERAL AML LEGISLATION" target="SANCTIONS LISTS" />
+    <edge source="FEDERAL AML LEGISLATION" target="FINANCIAL INTELLIGENCE UNIT (FIU)" />
+    <edge source="FEDERAL AML LEGISLATION" target="MLRO" />
+    <edge source="FEDERAL AML LEGISLATION" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" />
+    <edge source="FEDERAL AML LEGISLATION" target="CDD MEASURES" />
+    <edge source="FEDERAL AML LEGISLATION" target="SAR/STR" />
+    <edge source="FEDERAL AML LEGISLATION" target="BENEFICIAL OWNER" />
+    <edge source="U.A.E. CRIMINAL LAW" target="RELEVANT PERSON" />
+    <edge source="U.A.E. CRIMINAL LAW" target="REGULATOR" />
+    <edge source="FEDERAL LAW NO. (7) OF 2014" target="RELEVANT PERSON" />
+    <edge source="FEDERAL DECREE LAW NO. (20) OF 2018" target="RELEVANT PERSON" />
+    <edge source="CABINET DECISION NO. (10) OF 2019" target="RELEVANT PERSON" />
+    <edge source="CABINET DECISION NO. (74) OF 2020" target="RELEVANT PERSON" />
+    <edge source="CABINET DECISION NO. (74) OF 2020" target="UN SECURITY COUNCIL RESOLUTIONS" />
+    <edge source="CABINET DECISION NO. (74) OF 2020" target="EOCN" />
+    <edge source="RELEVANT PERSON" target="GOVERNING BODY" />
+    <edge source="RELEVANT PERSON" target="SENIOR MANAGEMENT" />
+    <edge source="RELEVANT PERSON" target="MLRO" />
+    <edge source="RELEVANT PERSON" target="REGULATOR" />
+    <edge source="RELEVANT PERSON" target="EMPLOYEE" />
+    <edge source="RELEVANT PERSON" target="FINANCIAL SERVICES AND MARKETS REGULATIONS 2015" />
+    <edge source="RELEVANT PERSON" target="CREDIT RATING AGENCY" />
+    <edge source="RELEVANT PERSON" target="RECOGNISED BODY" />
+    <edge source="RELEVANT PERSON" target="REPRESENTATIVE OFFICE" />
+    <edge source="RELEVANT PERSON" target="DNFBP" />
+    <edge source="RELEVANT PERSON" target="NPO" />
+    <edge source="RELEVANT PERSON" target="SECTION 15A OF FSMR" />
+    <edge source="RELEVANT PERSON" target="TARGETED FINANCIAL SANCTIONS" />
+    <edge source="RELEVANT PERSON" target="UN SECURITY COUNCIL RESOLUTIONS" />
+    <edge source="RELEVANT PERSON" target="COMBATTING TERRORISM OFFENCES" />
+    <edge source="RELEVANT PERSON" target="ANTI-MONEY LAUNDERING" />
+    <edge source="RELEVANT PERSON" target="COMBATTING THE FINANCING OF TERRORISM" />
+    <edge source="RELEVANT PERSON" target="FINANCING OF ILLEGAL ORGANISATIONS" />
+    <edge source="RELEVANT PERSON" target="PROLIFERATION FINANCING" />
+    <edge source="RELEVANT PERSON" target="SANCTIONS COMPLIANCE" />
+    <edge source="RELEVANT PERSON" target="FINANCIAL ACTION TASK FORCE" />
+    <edge source="RELEVANT PERSON" target="BASEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="RELEVANT PERSON" target="WOLFSBERG GROUP" />
+    <edge source="RELEVANT PERSON" target="EUROPEAN UNION" />
+    <edge source="RELEVANT PERSON" target="U.K. HM TREASURY" />
+    <edge source="RELEVANT PERSON" target="U.S. OFFICE OF FOREIGN ASSETS CONTROL" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER" />
+    <edge source="RELEVANT PERSON" target="COUNTERPARTY" />
+    <edge source="RELEVANT PERSON" target="MONEY LAUNDERING REPORTING OFFICER (MLRO)" />
+    <edge source="RELEVANT PERSON" target="REGULATED FINANCIAL INSTITUTION" />
+    <edge source="RELEVANT PERSON" target="RISK-BASED APPROACH (RBA)" />
+    <edge source="RELEVANT PERSON" target="SIMPLIFIED CUSTOMER DUE DILIGENCE" />
+    <edge source="RELEVANT PERSON" target="LEGAL PERSON" />
+    <edge source="RELEVANT PERSON" target="GOVERNMENT" />
+    <edge source="RELEVANT PERSON" target="STATE" />
+    <edge source="RELEVANT PERSON" target="NON-PROFIT ORGANISATION (NPO)" />
+    <edge source="RELEVANT PERSON" target="EXECUTIVE MANAGEMENT" />
+    <edge source="RELEVANT PERSON" target="FINANCIAL SERVICES REGULATORY AUTHORITY" />
+    <edge source="RELEVANT PERSON" target="SHELL BANK" />
+    <edge source="RELEVANT PERSON" target="U.A.E." />
+    <edge source="RELEVANT PERSON" target="FIU" />
+    <edge source="RELEVANT PERSON" target="GROUP ENTITIES" />
+    <edge source="RELEVANT PERSON" target="UN CONSOLIDATED LIST" />
+    <edge source="RELEVANT PERSON" target="LOCAL TERRORIST LIST" />
+    <edge source="RELEVANT PERSON" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" />
+    <edge source="RELEVANT PERSON" target="SOURCE OF FUNDS" />
+    <edge source="RELEVANT PERSON" target="SOURCE OF WEALTH" />
+    <edge source="RELEVANT PERSON" target="VIRTUAL ASSET" />
+    <edge source="RELEVANT PERSON" target="UNLAWFUL ORGANISATION" />
+    <edge source="RELEVANT PERSON" target="WAIVER" />
+    <edge source="RELEVANT PERSON" target="WMD" />
+    <edge source="RELEVANT PERSON" target="SPOT COMMODITY" />
+    <edge source="RELEVANT PERSON" target="TRANSACTION" />
+    <edge source="RELEVANT PERSON" target="UNDERTAKING" />
+    <edge source="RELEVANT PERSON" target="DEPOSITORY RECEIPTS" />
+    <edge source="RELEVANT PERSON" target="EMPLOYEES" />
+    <edge source="RELEVANT PERSON" target="ANNUAL REVIEW" />
+    <edge source="RELEVANT PERSON" target="BUSINESS RISK ASSESSMENT" />
+    <edge source="RELEVANT PERSON" target="INTERNAL AUDIT" />
+    <edge source="RELEVANT PERSON" target="INDEPENDENT AUDITORS" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER DOCUMENTATION" />
+    <edge source="RELEVANT PERSON" target="SUSPICIOUS ACTIVITY REPORTS" />
+    <edge source="RELEVANT PERSON" target="FOREIGN REGULATIONS" />
+    <edge source="RELEVANT PERSON" target="PERIODIC REVIEW" />
+    <edge source="RELEVANT PERSON" target="COMMUNICATION" />
+    <edge source="RELEVANT PERSON" target="ADDITIONAL MEASURES" />
+    <edge source="RELEVANT PERSON" target="POLICY COMMUNICATION" />
+    <edge source="RELEVANT PERSON" target="POLICY REVIEW" />
+    <edge source="RELEVANT PERSON" target="POLICY IMPLEMENTATION" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE" />
+    <edge source="RELEVANT PERSON" target="POLICY ENFORCEMENT" />
+    <edge source="RELEVANT PERSON" target="POLICY DOCUMENTATION" />
+    <edge source="RELEVANT PERSON" target="POLICY AUDIT" />
+    <edge source="RELEVANT PERSON" target="POLICY TRAINING" />
+    <edge source="RELEVANT PERSON" target="POLICY RISK ASSESSMENT" />
+    <edge source="RELEVANT PERSON" target="POLICY REPORTING" />
+    <edge source="RELEVANT PERSON" target="POLICY MONITORING" />
+    <edge source="RELEVANT PERSON" target="POLICY ENHANCEMENT" />
+    <edge source="RELEVANT PERSON" target="POLICY OVERSIGHT" />
+    <edge source="RELEVANT PERSON" target="POLICY COORDINATION" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH FOREIGN REGULATIONS" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH LOCAL REGULATIONS" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH TARGETED FINANCIAL SANCTIONS" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH UN CONSOLIDATED LIST" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH LOCAL TERRORIST LIST" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH VIRTUAL ASSETS" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH UNLAWFUL ORGANISATIONS" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH WMD" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH SIMPLIFIED CUSTOMER DUE DILIGENCE" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH SPOT COMMODITIES" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH DEPOSITORY RECEIPTS" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH EMPLOYEES" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH ANNUAL REVIEW" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH BUSINESS RISK ASSESSMENT" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH INTERNAL AUDIT" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH INDEPENDENT AUDITORS" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH GOVERNING BODY" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH CUSTOMER DOCUMENTATION" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH SUSPICIOUS ACTIVITY REPORTS" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH PERIODIC REVIEW" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH COMMUNICATION" />
+    <edge source="RELEVANT PERSON" target="POLICY COMPLIANCE WITH ADDITIONAL MEASURES" />
+    <edge source="RELEVANT PERSON" target="BRANCH" />
+    <edge source="RELEVANT PERSON" target="SUBSIDIARY" />
+    <edge source="RELEVANT PERSON" target="GROUP" />
+    <edge source="RELEVANT PERSON" target="OECD" />
+    <edge source="RELEVANT PERSON" target="ABU DHABI GLOBAL MARKET (ADGM)" />
+    <edge source="RELEVANT PERSON" target="BUSINESS DAY" />
+    <edge source="RELEVANT PERSON" target="SANCTIONS" />
+    <edge source="RELEVANT PERSON" target="CDD" />
+    <edge source="RELEVANT PERSON" target="EKYC" />
+    <edge source="RELEVANT PERSON" target="BIOMETRIC AUTHENTICATION" />
+    <edge source="RELEVANT PERSON" target="ANNUAL AML RETURN" />
+    <edge source="RELEVANT PERSON" target="RULE 4.5.1" />
+    <edge source="RELEVANT PERSON" target="RULE 6.1.1" />
+    <edge source="RELEVANT PERSON" target="RULE 6.1.2" />
+    <edge source="RELEVANT PERSON" target="RULE 7.1.1" />
+    <edge source="RELEVANT PERSON" target="RULE 14.2.2" />
+    <edge source="RELEVANT PERSON" target="RULE 4.6.1" />
+    <edge source="RELEVANT PERSON" target="RULE 4.5.7" />
+    <edge source="RELEVANT PERSON" target="RULE 5.1.1" />
+    <edge source="RELEVANT PERSON" target="RULE 4.8.1" />
+    <edge source="RELEVANT PERSON" target="RBA" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER RISK ASSESSMENT" />
+    <edge source="RELEVANT PERSON" target="TARGETED FINANCIAL SANCTIONS RISK ASSESSMENT" />
+    <edge source="RELEVANT PERSON" target="ANTI-MONEY LAUNDERING AND TERRORIST FINANCING (AML/TFS)" />
+    <edge source="RELEVANT PERSON" target="RULE 6.2.1" />
+    <edge source="RELEVANT PERSON" target="RULE 6.2.1(C)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.1.1" />
+    <edge source="RELEVANT PERSON" target="RULE 8.3.1" />
+    <edge source="RELEVANT PERSON" target="RULE 8.1.1(3)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.4.1" />
+    <edge source="RELEVANT PERSON" target="RULE 8.1.1(4)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.5.1" />
+    <edge source="RELEVANT PERSON" target="RULE 5.1.1(B)(III)" />
+    <edge source="RELEVANT PERSON" target="CHAPTER 6" />
+    <edge source="RELEVANT PERSON" target="CHAPTER 7" />
+    <edge source="RELEVANT PERSON" target="FATF" />
+    <edge source="RELEVANT PERSON" target="PEP" />
+    <edge source="RELEVANT PERSON" target="BENEFICIAL OWNER" />
+    <edge source="RELEVANT PERSON" target="AML/TFS" />
+    <edge source="RELEVANT PERSON" target="NFTF BUSINESS" />
+    <edge source="RELEVANT PERSON" target="EKYC SYSTEMS" />
+    <edge source="RELEVANT PERSON" target="RULE 6.1.1(B)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.6.1" />
+    <edge source="RELEVANT PERSON" target="CHAPTER 8" />
+    <edge source="RELEVANT PERSON" target="PENAL CODE" />
+    <edge source="RELEVANT PERSON" target="REGLAB" />
+    <edge source="RELEVANT PERSON" target="IMF" />
+    <edge source="RELEVANT PERSON" target="WORLD BANK" />
+    <edge source="RELEVANT PERSON" target="LEGAL ARRANGEMENT" />
+    <edge source="RELEVANT PERSON" target="NOMINEE SHAREHOLDER" />
+    <edge source="RELEVANT PERSON" target="SHADOW DIRECTOR" />
+    <edge source="RELEVANT PERSON" target="CASH INTENSIVE BUSINESS" />
+    <edge source="RELEVANT PERSON" target="PRIVATE BANKING" />
+    <edge source="RELEVANT PERSON" target="NFTF" />
+    <edge source="RELEVANT PERSON" target="ELECTRONIC SIGNATURE" />
+    <edge source="RELEVANT PERSON" target="EMBARGOS" />
+    <edge source="RELEVANT PERSON" target="TERRORISM" />
+    <edge source="RELEVANT PERSON" target="MONEY LAUNDERING" />
+    <edge source="RELEVANT PERSON" target="ILLEGAL DRUGS" />
+    <edge source="RELEVANT PERSON" target="PUBLIC BODY" />
+    <edge source="RELEVANT PERSON" target="PUBLICLY OWNED ENTERPRISE" />
+    <edge source="RELEVANT PERSON" target="AUTHORIZED PERSON" />
+    <edge source="RELEVANT PERSON" target="RECOGNIZED BODY" />
+    <edge source="RELEVANT PERSON" target="PARENT" />
+    <edge source="RELEVANT PERSON" target="SECURITIES" />
+    <edge source="RELEVANT PERSON" target="ENHANCED CDD" />
+    <edge source="RELEVANT PERSON" target="SIMPLIFIED CDD" />
+    <edge source="RELEVANT PERSON" target="INSURANCE COMPANY" />
+    <edge source="RELEVANT PERSON" target="PENSION SCHEME" />
+    <edge source="RELEVANT PERSON" target="LEGAL PERSON OR LEGAL ARRANGEMENT" />
+    <edge source="RELEVANT PERSON" target="ANONYMOUS ACCOUNT" />
+    <edge source="RELEVANT PERSON" target="NOMINEE ACCOUNT" />
+    <edge source="RELEVANT PERSON" target="BEARER SHARES" />
+    <edge source="RELEVANT PERSON" target="RESTRICTED SCOPE COMPANY" />
+    <edge source="RELEVANT PERSON" target="ADGM REGISTRAR OF COMPANIES" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER DUE DILIGENCE" />
+    <edge source="RELEVANT PERSON" target="PROSPECTIVE CUSTOMER" />
+    <edge source="RELEVANT PERSON" target="ACCOUNT HOLDER" />
+    <edge source="RELEVANT PERSON" target="CDD PROCEDURES" />
+    <edge source="RELEVANT PERSON" target="AML/TFS FUNCTIONS" />
+    <edge source="RELEVANT PERSON" target="COMPLIANCE AND AUDIT FUNCTIONS" />
+    <edge source="RELEVANT PERSON" target="NUMBERED ACCOUNT" />
+    <edge source="RELEVANT PERSON" target="GOAML" />
+    <edge source="RELEVANT PERSON" target="AUTHORISED PERSON" />
+    <edge source="RELEVANT PERSON" target="RULE 8.1.1(1)(B)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.1.2(1)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.2.1(1)(B)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.2.1(3)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.7.1" />
+    <edge source="RELEVANT PERSON" target="RULE 8.7(&quot;ENTITY&quot;" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER DUE DILIGENCE (CDD)" />
+    <edge source="RELEVANT PERSON" target="FINANCIAL CRIME" />
+    <edge source="RELEVANT PERSON" target="FRAUD" />
+    <edge source="RELEVANT PERSON" target="VERIFICATION OF IDENTITY" />
+    <edge source="RELEVANT PERSON" target="BUSINESS RELATIONSHIP" />
+    <edge source="RELEVANT PERSON" target="SUSPICIOUS ACTIVITY REPORT (SAR)" />
+    <edge source="RELEVANT PERSON" target="TIPPING OFF" />
+    <edge source="RELEVANT PERSON" target="LIFE INSURANCE POLICY" />
+    <edge source="RELEVANT PERSON" target="BENEFICIARY" />
+    <edge source="RELEVANT PERSON" target="POLICY PAYOUT" />
+    <edge source="RELEVANT PERSON" target="SUBSCRIPTION MONIES" />
+    <edge source="RELEVANT PERSON" target="TIME CRITICAL TRANSACTION" />
+    <edge source="RELEVANT PERSON" target="IMMEDIATE INSURANCE COVER" />
+    <edge source="RELEVANT PERSON" target="MATERIAL CHANGE" />
+    <edge source="RELEVANT PERSON" target="SUSPICIOUS ACTIVITY" />
+    <edge source="RELEVANT PERSON" target="RULE 7.1.1(3)" />
+    <edge source="RELEVANT PERSON" target="RULE 7.1.2" />
+    <edge source="RELEVANT PERSON" target="KYC SYSTEM" />
+    <edge source="RELEVANT PERSON" target="BODY CORPORATE" />
+    <edge source="RELEVANT PERSON" target="PARTNERSHIP" />
+    <edge source="RELEVANT PERSON" target="TRUST" />
+    <edge source="RELEVANT PERSON" target="FOUNDATION" />
+    <edge source="RELEVANT PERSON" target="NATURAL PERSON" />
+    <edge source="RELEVANT PERSON" target="LISTED BODY CORPORATE" />
+    <edge source="RELEVANT PERSON" target="FEDERAL GOVERNMENT OF THE U.A.E." />
+    <edge source="RELEVANT PERSON" target="MEMBER EMIRATES OF THE U.A.E." />
+    <edge source="RELEVANT PERSON" target="EMIRI DECREE" />
+    <edge source="RELEVANT PERSON" target="MARKET INFRASTRUCTURE RULEBOOK (MIR)" />
+    <edge source="RELEVANT PERSON" target="RULE 6.1" />
+    <edge source="RELEVANT PERSON" target="RULE 9.3" />
+    <edge source="RELEVANT PERSON" target="RULE 8.3.1(1)(B)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.3.3" />
+    <edge source="RELEVANT PERSON" target="RULE 8.3.4" />
+    <edge source="RELEVANT PERSON" target="FOUNDATION COUNCIL MEMBERS" />
+    <edge source="RELEVANT PERSON" target="GUARDIAN" />
+    <edge source="RELEVANT PERSON" target="BENEFICIARIES" />
+    <edge source="RELEVANT PERSON" target="RETAIL INVESTMENT FUND" />
+    <edge source="RELEVANT PERSON" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="RELEVANT PERSON" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="RELEVANT PERSON" target="FOUNDING PERSON" />
+    <edge source="RELEVANT PERSON" target="AML/TFS REGULATION" />
+    <edge source="RELEVANT PERSON" target="CORRUPTION OFFENCES" />
+    <edge source="RELEVANT PERSON" target="EKYC SYSTEM" />
+    <edge source="RELEVANT PERSON" target="NAMLCFTC" />
+    <edge source="RELEVANT PERSON" target="HIGH RISK COUNTRY TRANSACTION REPORT" />
+    <edge source="RELEVANT PERSON" target="HIGH RISK COUNTRY ACTIVITY REPORT" />
+    <edge source="RELEVANT PERSON" target="TRANSACTIONS" />
+    <edge source="RELEVANT PERSON" target="RULE 8.3.1(1)(D)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.6.1(D)" />
+    <edge source="RELEVANT PERSON" target="RULE 8.6.1(E)" />
+    <edge source="RELEVANT PERSON" target="RULE 7.1.1(1)(B)" />
+    <edge source="RELEVANT PERSON" target="RULE 14.3.1(C)" />
+    <edge source="RELEVANT PERSON" target="SANCTIONS LISTS" />
+    <edge source="RELEVANT PERSON" target="FINANCIAL INTELLIGENCE UNIT (FIU)" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER RELATIONSHIP" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER IDENTIFICATION UPDATES" />
+    <edge source="RELEVANT PERSON" target="IDENTIFICATION DOCUMENT VERIFICATION" />
+    <edge source="RELEVANT PERSON" target="ONGOING MONITORING PROGRAMME" />
+    <edge source="RELEVANT PERSON" target="MONETARY THRESHOLD" />
+    <edge source="RELEVANT PERSON" target="TRANSACTION TYPE" />
+    <edge source="RELEVANT PERSON" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="RELEVANT PERSON" target="UNUSUAL TRANSACTION" />
+    <edge source="RELEVANT PERSON" target="RULE 8.8.1" />
+    <edge source="RELEVANT PERSON" target="THIRD PARTY" />
+    <edge source="RELEVANT PERSON" target="RULE 8.7.1(1)" />
+    <edge source="RELEVANT PERSON" target="AUTHORISED PERSON OR RECOGNISED BODY" />
+    <edge source="RELEVANT PERSON" target="GROUP-WIDE POLICY" />
+    <edge source="RELEVANT PERSON" target="NON-ADGM FINANCIAL SERVICES REGULATOR" />
+    <edge source="RELEVANT PERSON" target="FATF RECOMMENDATIONS" />
+    <edge source="RELEVANT PERSON" target="THIRD PARTY RELIANCE" />
+    <edge source="RELEVANT PERSON" target="GROUP MEMBER" />
+    <edge source="RELEVANT PERSON" target="CDD INFORMATION" />
+    <edge source="RELEVANT PERSON" target="CERTIFIED COPIES" />
+    <edge source="RELEVANT PERSON" target="AML/TFS COMPLIANCE" />
+    <edge source="RELEVANT PERSON" target="PORTABILITY OF CDD INFORMATION" />
+    <edge source="RELEVANT PERSON" target="GROUP POLICY" />
+    <edge source="RELEVANT PERSON" target="GROUP SUPERVISION" />
+    <edge source="RELEVANT PERSON" target="RULE 8.3" />
+    <edge source="RELEVANT PERSON" target="RULE 8.4" />
+    <edge source="RELEVANT PERSON" target="RULE 8.7" />
+    <edge source="RELEVANT PERSON" target="RULE 8.7.1(1)(A) TO (F)" />
+    <edge source="RELEVANT PERSON" target="BUSINESS PARTNER" />
+    <edge source="RELEVANT PERSON" target="ACQUIRED BUSINESS" />
+    <edge source="RELEVANT PERSON" target="CORRESPONDENT BANK" />
+    <edge source="RELEVANT PERSON" target="CORRESPONDENT BANKING CLIENT" />
+    <edge source="RELEVANT PERSON" target="FINANCIAL SERVICES REGULATOR" />
+    <edge source="RELEVANT PERSON" target="SERVICE PROVIDER" />
+    <edge source="RELEVANT PERSON" target="RULE 9.1.1(1)" />
+    <edge source="RELEVANT PERSON" target="RULE 10.2.2" />
+    <edge source="RELEVANT PERSON" target="RULE 9.3.1" />
+    <edge source="RELEVANT PERSON" target="RULE 9.3.1A" />
+    <edge source="RELEVANT PERSON" target="U.A.E. AUTHORITIES" />
+    <edge source="RELEVANT PERSON" target="WOLFSBERG ANTI-MONEY LAUNDERING PRINCIPLES FOR CORRESPONDENT BANKING" />
+    <edge source="RELEVANT PERSON" target="RELATED ENTITY" />
+    <edge source="RELEVANT PERSON" target="CREDIT RATING AGENCIES" />
+    <edge source="RELEVANT PERSON" target="REPRESENTATIVE OFFICES" />
+    <edge source="RELEVANT PERSON" target="AGENT" />
+    <edge source="RELEVANT PERSON" target="PAYMENT TRANSACTION" />
+    <edge source="RELEVANT PERSON" target="CORRESPONDENT BANKING" />
+    <edge source="RELEVANT PERSON" target="RESPONDENT BANK" />
+    <edge source="RELEVANT PERSON" target="RULE &#8206;9.3.1" />
+    <edge source="RELEVANT PERSON" target="EOCN" />
+    <edge source="RELEVANT PERSON" target="GOVERNMENT OF THE U.A.E." />
+    <edge source="RELEVANT PERSON" target="CENTRAL BANK OF THE U.A.E." />
+    <edge source="RELEVANT PERSON" target="UNSC" />
+    <edge source="RELEVANT PERSON" target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="RELEVANT PERSON" target="TARGETED FINANCIAL SANCTIONS LISTS" />
+    <edge source="RELEVANT PERSON" target="PNMRS" />
+    <edge source="RELEVANT PERSON" target="FFRS" />
+    <edge source="RELEVANT PERSON" target="HM TREASURY" />
+    <edge source="RELEVANT PERSON" target="OFAC" />
+    <edge source="RELEVANT PERSON" target="RECOGNISED INVESTMENT EXCHANGE" />
+    <edge source="RELEVANT PERSON" target="RECOGNISED CLEARING HOUSE" />
+    <edge source="RELEVANT PERSON" target="RULE 11.2.1" />
+    <edge source="RELEVANT PERSON" target="CHAPTER 14" />
+    <edge source="RELEVANT PERSON" target="GEN RULE 5.5.1" />
+    <edge source="RELEVANT PERSON" target="GEN RULE 5.5.2" />
+    <edge source="RELEVANT PERSON" target="MIR RULE" />
+    <edge source="RELEVANT PERSON" target="RULE 12.1.7" />
+    <edge source="RELEVANT PERSON" target="THIRD-PARTY PROVIDER" />
+    <edge source="RELEVANT PERSON" target="CORPORATE GROUP" />
+    <edge source="RELEVANT PERSON" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" />
+    <edge source="RELEVANT PERSON" target="CDD MEASURES" />
+    <edge source="RELEVANT PERSON" target="OPERATIONAL STAFF" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER CONTACT EMPLOYEES" />
+    <edge source="RELEVANT PERSON" target="CUSTOMER MONIES OR ASSETS HANDLERS" />
+    <edge source="RELEVANT PERSON" target="NEW RELEVANT EMPLOYEES" />
+    <edge source="RELEVANT PERSON" target="RULE 13.1.1" />
+    <edge source="RELEVANT PERSON" target="CHAPTER 11" />
+    <edge source="RELEVANT PERSON" target="SAR/STR" />
+    <edge source="RELEVANT PERSON" target="ADGM COURTS" />
+    <edge source="RELEVANT PERSON" target="RULE 14.3.1" />
+    <edge source="RELEVANT PERSON" target="RULE 14.2" />
+    <edge source="RELEVANT PERSON" target="RULE 14.3" />
+    <edge source="REGULATOR" target="GOVERNING BODY" />
+    <edge source="REGULATOR" target="SENIOR MANAGEMENT" />
+    <edge source="REGULATOR" target="MLRO" />
+    <edge source="REGULATOR" target="EMPLOYEE" />
+    <edge source="REGULATOR" target="SECTION 15A OF FSMR" />
+    <edge source="REGULATOR" target="TARGETED FINANCIAL SANCTIONS" />
+    <edge source="REGULATOR" target="UN SECURITY COUNCIL RESOLUTIONS" />
+    <edge source="REGULATOR" target="COMBATTING TERRORISM OFFENCES" />
+    <edge source="REGULATOR" target="ANTI-MONEY LAUNDERING" />
+    <edge source="REGULATOR" target="COMBATTING THE FINANCING OF TERRORISM" />
+    <edge source="REGULATOR" target="FINANCING OF ILLEGAL ORGANISATIONS" />
+    <edge source="REGULATOR" target="PROLIFERATION FINANCING" />
+    <edge source="REGULATOR" target="SANCTIONS COMPLIANCE" />
+    <edge source="REGULATOR" target="RELEVANT PERSONS" />
+    <edge source="REGULATOR" target="FATF" />
+    <edge source="REGULATOR" target="EUROPEAN UNION" />
+    <edge source="REGULATOR" target="U.K. HM TREASURY" />
+    <edge source="REGULATOR" target="U.S. OFFICE OF FOREIGN ASSETS CONTROL" />
+    <edge source="REGULATOR" target="DESIGNATED NON-FIN(&quot;ENTITY&quot;" />
+    <edge source="REGULATOR" target="RULE" />
+    <edge source="REGULATOR" target="REGULATED FINANCIAL INSTITUTION" />
+    <edge source="REGULATOR" target="ABU DHABI GLOBAL MARKET (ADGM)" />
+    <edge source="REGULATOR" target="BUSINESS DAY" />
+    <edge source="REGULATOR" target="AUTHORISED PERSON" />
+    <edge source="REGULATOR" target="RULE 4.5.1" />
+    <edge source="REGULATOR" target="RULE 6.1.1" />
+    <edge source="REGULATOR" target="RULE 6.1.2" />
+    <edge source="REGULATOR" target="RULE 7.1.1" />
+    <edge source="REGULATOR" target="RULE 14.2.2" />
+    <edge source="REGULATOR" target="RULE 4.6.1" />
+    <edge source="REGULATOR" target="RULE 4.5.7" />
+    <edge source="REGULATOR" target="RULE 5.1.1" />
+    <edge source="REGULATOR" target="RULE 4.8.1" />
+    <edge source="REGULATOR" target="ANNUAL AML RETURN" />
+    <edge source="REGULATOR" target="WAIVER" />
+    <edge source="REGULATOR" target="FIU" />
+    <edge source="REGULATOR" target="U.A.E." />
+    <edge source="REGULATOR" target="RECOGNISED BODY" />
+    <edge source="REGULATOR" target="RULE &#8206;9.3.1" />
+    <edge source="REGULATOR" target="RULE &#8206;8.3.1" />
+    <edge source="REGULATOR" target="GEN 3.3.31" />
+    <edge source="REGULATOR" target="GEN 3.3.32" />
+    <edge source="REGULATOR" target="PRU 6.8" />
+    <edge source="REGULATOR" target="MIR 2.14" />
+    <edge source="REGULATOR" target="RULE 10.3.2" />
+    <edge source="REGULATOR" target="FATF RECOMMENDATION NUMBER 16" />
+    <edge source="REGULATOR" target="CDD" />
+    <edge source="REGULATOR" target="AML/TFS" />
+    <edge source="REGULATOR" target="WIRE TRANSFER" />
+    <edge source="REGULATOR" target="VIRTUAL ASSETS" />
+    <edge source="REGULATOR" target="BATCH TRANSFER" />
+    <edge source="REGULATOR" target="ORIGINATOR" />
+    <edge source="REGULATOR" target="BENEFICIARY" />
+    <edge source="REGULATOR" target="ACCOUNT HOLDER" />
+    <edge source="REGULATOR" target="ACCOUNT NUMBER" />
+    <edge source="REGULATOR" target="WALLET ADDRESS" />
+    <edge source="REGULATOR" target="TRAVEL RULE" />
+    <edge source="REGULATOR" target="FATF INTERPRETATIVE NOTE (R.15/INR.15)" />
+    <edge source="REGULATOR" target="CABINET DECISION NO. 74 OF 2020" />
+    <edge source="REGULATOR" target="RULE 10.3.2(3)" />
+    <edge source="REGULATOR" target="RULE 10.4.1" />
+    <edge source="REGULATOR" target="RULE 11.1.1" />
+    <edge source="REGULATOR" target="EOCN" />
+    <edge source="REGULATOR" target="GOVERNMENT OF THE U.A.E." />
+    <edge source="REGULATOR" target="CENTRAL BANK OF THE U.A.E." />
+    <edge source="REGULATOR" target="NAMLCFTC" />
+    <edge source="REGULATOR" target="UNSC" />
+    <edge source="REGULATOR" target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="REGULATOR" target="GEN RULE 5.5.1" />
+    <edge source="REGULATOR" target="GEN RULE 5.5.2" />
+    <edge source="REGULATOR" target="MIR RULE" />
+    <edge source="REGULATOR" target="RULE 12.1.7" />
+    <edge source="REGULATOR" target="RULE 11.2.1" />
+    <edge source="REGULATOR" target="CHAPTER 6" />
+    <edge source="REGULATOR" target="CHAPTER 7" />
+    <edge source="REGULATOR" target="CHAPTER 14" />
+    <edge source="REGULATOR" target="U.A.E. AUTHORITIES" />
+    <edge source="REGULATOR" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" />
+    <edge source="REGULATOR" target="CDD MEASURES" />
+    <edge source="REGULATOR" target="RULE 13.1.1" />
+    <edge source="REGULATOR" target="RBA" />
+    <edge source="REGULATOR" target="ADGM COURTS" />
+    <edge source="REGULATOR" target="DNFBP" />
+    <edge source="REGULATOR" target="RULE 15.4" />
+    <edge source="REGULATOR" target="REGISTRAR OF COMPANIES" />
+    <edge source="REGULATOR" target="FSMR" />
+    <edge source="REGULATOR" target="COMPLIANCE WITH AML/TFS REQUIREMENTS" />
+    <edge source="REGULATOR" target="REGISTRATION AS DNFBP" />
+    <edge source="REGULATOR" target="SUSPENSION OR WITHDRAWAL OF REGISTRATION" />
+    <edge source="REGULATOR" target="GRANT OF APPLICATION" />
+    <edge source="REGULATOR" target="REFUSAL OF APPLICATION" />
+    <edge source="REGULATOR" target="CO-ORDINATION BETWEEN REGULATOR AND REGISTRAR OF COMPANIES" />
+    <edge source="REGULATOR" target="FIT AND PROPER ASSESSMENT" />
+    <edge source="REGULATOR" target="FIT AND PROPER CRITERIA" />
+    <edge source="REGULATOR" target="FIT AND PROPER APPLICATION" />
+    <edge source="REGULATOR" target="FIT AND PROPER MATERIAL CHANGE" />
+    <edge source="REGULATOR" target="FIT AND PROPER DEEMED REGISTRATION" />
+    <edge source="REGULATOR" target="FIT AND PROPER REFUSAL" />
+    <edge source="REGULATOR" target="FIT AND PROPER GRANT" />
+    <edge source="REGULATOR" target="FIT AND PROPER NOTIFICATION" />
+    <edge source="REGULATOR" target="FIT AND PROPER CESSATION" />
+    <edge source="REGULATOR" target="FIT AND PROPER SUSPENSION" />
+    <edge source="REGULATOR" target="FIT AND PROPER WITHDRAWAL" />
+    <edge source="REGULATOR" target="FIT AND PROPER CO-ORDINATION" />
+    <edge source="REGULATOR" target="FIT AND PROPER DISCLOSURE" />
+    <edge source="REGULATOR" target="NPO" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="GOVERNING BODY" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="SENIOR MANAGEMENT" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="MLRO" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="EMPLOYEE" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="FINANCIAL ACTION TASK FORCE" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="U.A.E." />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="UNITED NATIONS SECURITY COUNCIL" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="EUROPEAN UNION" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="U.K. HM TREASURY" />
+    <edge source="TARGETED FINANCIAL SANCTIONS" target="U.S. OFFICE OF FOREIGN ASSETS CONTROL" />
+    <edge source="COMBATTING TERRORISM OFFENCES" target="GOVERNING BODY" />
+    <edge source="COMBATTING TERRORISM OFFENCES" target="SENIOR MANAGEMENT" />
+    <edge source="COMBATTING TERRORISM OFFENCES" target="MLRO" />
+    <edge source="COMBATTING TERRORISM OFFENCES" target="EMPLOYEE" />
+    <edge source="ANTI-MONEY LAUNDERING" target="GOVERNING BODY" />
+    <edge source="ANTI-MONEY LAUNDERING" target="SENIOR MANAGEMENT" />
+    <edge source="ANTI-MONEY LAUNDERING" target="MLRO" />
+    <edge source="ANTI-MONEY LAUNDERING" target="EMPLOYEE" />
+    <edge source="COMBATTING THE FINANCING OF TERRORISM" target="GOVERNING BODY" />
+    <edge source="COMBATTING THE FINANCING OF TERRORISM" target="SENIOR MANAGEMENT" />
+    <edge source="COMBATTING THE FINANCING OF TERRORISM" target="MLRO" />
+    <edge source="FINANCING OF ILLEGAL ORGANISATIONS" target="GOVERNING BODY" />
+    <edge source="FINANCING OF ILLEGAL ORGANISATIONS" target="SENIOR MANAGEMENT" />
+    <edge source="FINANCING OF ILLEGAL ORGANISATIONS" target="MLRO" />
+    <edge source="PROLIFERATION FINANCING" target="GOVERNING BODY" />
+    <edge source="PROLIFERATION FINANCING" target="SENIOR MANAGEMENT" />
+    <edge source="PROLIFERATION FINANCING" target="MLRO" />
+    <edge source="SANCTIONS COMPLIANCE" target="GOVERNING BODY" />
+    <edge source="SANCTIONS COMPLIANCE" target="SENIOR MANAGEMENT" />
+    <edge source="SANCTIONS COMPLIANCE" target="MLRO" />
+    <edge source="CREDIT RATING AGENCY" target="RELEVANT PERSON&lt;|(&quot;ENTITY&quot;" />
+    <edge source="CREDIT RATING AGENCY" target="AUTHORISED PERSON" />
+    <edge source="CREDIT RATING AGENCY" target="CLIENT" />
+    <edge source="CREDIT RATING AGENCY" target="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" />
+    <edge source="RECOGNISED BODY" target="REGULATED FINANCIAL INSTITUTION" />
+    <edge source="RECOGNISED BODY" target="RECOGNISED INVESTMENT EXCHANGE" />
+    <edge source="RECOGNISED BODY" target="RECOGNISED CLEARING HOUSE" />
+    <edge source="RECOGNISED BODY" target="FINANCIAL SERVICES REGULATORY AUTHORITY" />
+    <edge source="RECOGNISED BODY" target="CUSTOMER DUE DILIGENCE" />
+    <edge source="RECOGNISED BODY" target="CUSTOMER" />
+    <edge source="RECOGNISED BODY" target="AGENT" />
+    <edge source="RECOGNISED BODY" target="GROUP" />
+    <edge source="RECOGNISED BODY" target="PAYMENT TRANSACTION" />
+    <edge source="RECOGNISED BODY" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" />
+    <edge source="RECOGNISED BODY" target="CDD" />
+    <edge source="RECOGNISED BODY" target="CORRESPONDENT BANKING" />
+    <edge source="RECOGNISED BODY" target="RESPONDENT BANK" />
+    <edge source="RECOGNISED BODY" target="SHELL BANK" />
+    <edge source="RECOGNISED BODY" target="SENIOR MANAGEMENT" />
+    <edge source="RECOGNISED BODY" target="GEN 3.3.31" />
+    <edge source="RECOGNISED BODY" target="GEN 3.3.32" />
+    <edge source="RECOGNISED BODY" target="MIR 2.14" />
+    <edge source="RECOGNISED BODY" target="AUTHORISED PERSON" />
+    <edge source="RECOGNISED BODY" target="RULE 10.3.2" />
+    <edge source="RECOGNISED BODY" target="FATF RECOMMENDATION NUMBER 16" />
+    <edge source="RECOGNISED BODY" target="BANK" />
+    <edge source="RECOGNISED BODY" target="CORRESPONDENT BANKING RELATIONSHIP" />
+    <edge source="RECOGNISED BODY" target="AML/TFS" />
+    <edge source="RECOGNISED BODY" target="WIRE TRANSFER" />
+    <edge source="RECOGNISED BODY" target="VIRTUAL ASSETS" />
+    <edge source="RECOGNISED BODY" target="BATCH TRANSFER" />
+    <edge source="RECOGNISED BODY" target="ORIGINATOR" />
+    <edge source="RECOGNISED BODY" target="BENEFICIARY" />
+    <edge source="RECOGNISED BODY" target="ACCOUNT HOLDER" />
+    <edge source="RECOGNISED BODY" target="ACCOUNT NUMBER" />
+    <edge source="RECOGNISED BODY" target="WALLET ADDRESS" />
+    <edge source="RECOGNISED BODY" target="TRAVEL RULE" />
+    <edge source="RECOGNISED BODY" target="FATF INTERPRETATIVE NOTE (R.15/INR.15)" />
+    <edge source="RECOGNISED BODY" target="FATF" />
+    <edge source="RECOGNISED BODY" target="RULE 10.3.2(3)" />
+    <edge source="RECOGNISED BODY" target="RULE 10.4.1" />
+    <edge source="RECOGNISED BODY" target="RULE 11.1.1" />
+    <edge source="RECOGNISED BODY" target="MLRO" />
+    <edge source="RECOGNISED BODY" target="CABINET DECISION NO. 74 OF 2020" />
+    <edge source="RECOGNISED BODY" target="RULE 11.1.1(2)" />
+    <edge source="RECOGNISED BODY" target="RULE 11.1.1(3)" />
+    <edge source="RECOGNISED BODY" target="RULE 11.1.1(6)" />
+    <edge source="RECOGNISED BODY" target="RULE 11.1.1(7)" />
+    <edge source="RECOGNISED BODY" target="RULE 11.1.1(8)" />
+    <edge source="DNFBP" target="CUSTOMER DUE DILIGENCE" />
+    <edge source="DNFBP" target="REAL ESTATE AGENCY" />
+    <edge source="DNFBP" target="DEALER IN PRECIOUS METALS" />
+    <edge source="DNFBP" target="DEALER IN PRECIOUS STONES" />
+    <edge source="DNFBP" target="ACCOUNTING FIRM" />
+    <edge source="DNFBP" target="LAW FIRM" />
+    <edge source="DNFBP" target="NOTARY FIRM" />
+    <edge source="DNFBP" target="INDEPENDENT LEGAL BUSINESS" />
+    <edge source="DNFBP" target="REAL PROPERTY TRANSACTION" />
+    <edge source="DNFBP" target="FINANCIAL TRANSACTION" />
+    <edge source="DNFBP" target="GOAML" />
+    <edge source="DNFBP" target="U.A.E." />
+    <edge source="DNFBP" target="RULE 15.1.1" />
+    <edge source="DNFBP" target="RULE 15.2.1" />
+    <edge source="DNFBP" target="RULE 3.2.1" />
+    <edge source="DNFBP" target="AML 15.4" />
+    <edge source="DNFBP" target="RULE 15.1" />
+    <edge source="DNFBP" target="RULE 15.2" />
+    <edge source="DNFBP" target="RULE 3.2" />
+    <edge source="DNFBP" target="RULE 15.4.1" />
+    <edge source="DNFBP" target="REGISTRAR OF COMPANIES" />
+    <edge source="DNFBP" target="MLRO" />
+    <edge source="DNFBP" target="NOTIFICATION OF CHANGES" />
+    <edge source="DNFBP" target="FIT AND PROPER ASSESSMENT" />
+    <edge source="DNFBP" target="FIT AND PROPER CRITERIA" />
+    <edge source="DNFBP" target="FIT AND PROPER APPLICATION" />
+    <edge source="DNFBP" target="FIT AND PROPER MATERIAL CHANGE" />
+    <edge source="DNFBP" target="FIT AND PROPER DEEMED REGISTRATION" />
+    <edge source="DNFBP" target="FIT AND PROPER REFUSAL" />
+    <edge source="DNFBP" target="FIT AND PROPER GRANT" />
+    <edge source="DNFBP" target="FIT AND PROPER NOTIFICATION" />
+    <edge source="DNFBP" target="FIT AND PROPER CESSATION" />
+    <edge source="DNFBP" target="FIT AND PROPER SUSPENSION" />
+    <edge source="DNFBP" target="FIT AND PROPER WITHDRAWAL" />
+    <edge source="DNFBP" target="FIT AND PROPER CO-ORDINATION" />
+    <edge source="DNFBP" target="FIT AND PROPER DISCLOSURE" />
+    <edge source="NPO" target="GOVERNING BODY" />
+    <edge source="NPO" target="EMPLOYEES" />
+    <edge source="NPO" target="DONORS" />
+    <edge source="NPO" target="FINANCIAL INSTITUTIONS" />
+    <edge source="NPO" target="SENIOR MANAGEMENT" />
+    <edge source="NPO" target="BENEFICIARIES" />
+    <edge source="NPO" target="ASSOCIATED NPOS" />
+    <edge source="NPO" target="RULE 16.1.2" />
+    <edge source="NPO" target="FINANCIAL SERVICES REGULATOR" />
+    <edge source="GOVERNING BODY" target="SENIOR MANAGEMENT" />
+    <edge source="GOVERNING BODY" target="MLRO" />
+    <edge source="GOVERNING BODY" target="EMPLOYEE" />
+    <edge source="GOVERNING BODY" target="SECTION 15A OF FSMR" />
+    <edge source="GOVERNING BODY" target="UN SECURITY COUNCIL RESOLUTIONS" />
+    <edge source="GOVERNING BODY" target="RELEVANT PERSONS" />
+    <edge source="GOVERNING BODY" target="ADGM ENTITY" />
+    <edge source="SENIOR MANAGEMENT" target="MLRO" />
+    <edge source="SENIOR MANAGEMENT" target="EMPLOYEE" />
+    <edge source="SENIOR MANAGEMENT" target="SECTION 15A OF FSMR" />
+    <edge source="SENIOR MANAGEMENT" target="UN SECURITY COUNCIL RESOLUTIONS" />
+    <edge source="SENIOR MANAGEMENT" target="RELEVANT PERSONS" />
+    <edge source="SENIOR MANAGEMENT" target="ADGM ENTITY" />
+    <edge source="SENIOR MANAGEMENT" target="BRANCH" />
+    <edge source="SENIOR MANAGEMENT" target="AUDITOR" />
+    <edge source="SENIOR MANAGEMENT" target="NAMLCFTC" />
+    <edge source="SENIOR MANAGEMENT" target="FIU" />
+    <edge source="SENIOR MANAGEMENT" target="GOAML" />
+    <edge source="SENIOR MANAGEMENT" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="SENIOR MANAGEMENT" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="SENIOR MANAGEMENT" target="BENEFICIAL OWNER" />
+    <edge source="SENIOR MANAGEMENT" target="ENHANCED CDD" />
+    <edge source="SENIOR MANAGEMENT" target="SIMPLIFIED CDD" />
+    <edge source="SENIOR MANAGEMENT" target="CUSTOMER" />
+    <edge source="SENIOR MANAGEMENT" target="TRANSACTION" />
+    <edge source="SENIOR MANAGEMENT" target="AUTHORISED PERSON" />
+    <edge source="SENIOR MANAGEMENT" target="CDD" />
+    <edge source="MLRO" target="EMPLOYEE" />
+    <edge source="MLRO" target="SECTION 15A OF FSMR" />
+    <edge source="MLRO" target="UN SECURITY COUNCIL RESOLUTIONS" />
+    <edge source="MLRO" target="RELEVANT PERSONS" />
+    <edge source="MLRO" target="BRANCH" />
+    <edge source="MLRO" target="SUBSIDIARY" />
+    <edge source="MLRO" target="GROUP" />
+    <edge source="MLRO" target="FIU" />
+    <edge source="MLRO" target="OECD" />
+    <edge source="MLRO" target="ABU DHABI GLOBAL MARKET (ADGM)" />
+    <edge source="MLRO" target="AUTHORISED PERSON" />
+    <edge source="MLRO" target="RULE 12.1.7" />
+    <edge source="MLRO" target="RULE 11.2.1" />
+    <edge source="MLRO" target="GEN RULE 5.5.1" />
+    <edge source="MLRO" target="GEN RULE 5.5.2" />
+    <edge source="MLRO" target="MIR RULE" />
+    <edge source="MLRO" target="U.A.E. AUTHORITIES" />
+    <edge source="MLRO" target="EMPLOYEES" />
+    <edge source="MLRO" target="CUSTOMER" />
+    <edge source="MLRO" target="PERSON ON WHOSE BEHALF THE CUSTOMER ACTS" />
+    <edge source="MLRO" target="TRANSACTION" />
+    <edge source="MLRO" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" />
+    <edge source="MLRO" target="CDD MEASURES" />
+    <edge source="MLRO" target="RULE 14.2.2" />
+    <edge source="MLRO" target="SAR/STR" />
+    <edge source="MLRO" target="U.A.E." />
+    <edge source="MLRO" target="LINE MANAGER" />
+    <edge source="MLRO" target="BENEFICIAL OWNER" />
+    <edge source="EMPLOYEE" target="SECTION 15A OF FSMR" />
+    <edge source="EMPLOYEE" target="UN SECURITY COUNCIL RESOLUTIONS" />
+    <edge source="RELEVANT PERSONS" target="U.A.E." />
+    <edge source="RELEVANT PERSONS" target="FATF" />
+    <edge source="RELEVANT PERSONS" target="LOCAL TERRORIST LIST" />
+    <edge source="RELEVANT PERSONS" target="CDD" />
+    <edge source="RELEVANT PERSONS" target="DNFBPS" />
+    <edge source="RELEVANT PERSONS" target="NPOS" />
+    <edge source="RELEVANT PERSONS" target="EMPLOYEE(S)" />
+    <edge source="RELEVANT PERSONS" target="DIRECTORS" />
+    <edge source="RELEVANT PERSONS" target="ARTICLE 3 OF FEDERAL DECREE BY LAW NO. 20 OF 2018" />
+    <edge source="RELEVANT PERSONS" target="ARTICLE 27 OF FEDERAL DECREE LAW NO. (20) OF 2018" />
+    <edge source="U.A.E." target="FATF" />
+    <edge source="U.A.E." target="UNITED NATIONS SECURITY COUNCIL" />
+    <edge source="U.A.E." target="LOCAL TERRORIST LIST" />
+    <edge source="U.A.E." target="NATIONAL ANTI-MONEY LAUNDERING AND COMBATING FINANCING OF TERRORISM AND FINANCING OF ILLEGAL ORGANIZATIONS COMMITTEE (NAMLCFTC)" />
+    <edge source="U.A.E." target="PENAL CODE" />
+    <edge source="U.A.E." target="SANCTIONS" />
+    <edge source="U.A.E." target="SANCTIONS LIST" />
+    <edge source="U.A.E." target="NAMLCFTC" />
+    <edge source="U.A.E." target="UNSC" />
+    <edge source="U.A.E." target="UAE PASS" />
+    <edge source="U.A.E." target="GOVERNMENT OF THE U.A.E." />
+    <edge source="U.A.E." target="CENTRAL BANK OF THE U.A.E." />
+    <edge source="U.A.E." target="FIU" />
+    <edge source="U.A.E." target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="U.A.E." target="EMPLOYEES" />
+    <edge source="U.A.E." target="EOCN" />
+    <edge source="U.A.E." target="SAR/STR" />
+    <edge source="U.A.E." target="GOAML" />
+    <edge source="FATF" target="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" />
+    <edge source="FATF" target="FINANCIAL INSTITUTION" />
+    <edge source="FATF" target="FINANCIAL SERVICES REGULATOR" />
+    <edge source="FATF" target="FSMR" />
+    <edge source="FATF" target="GOAML" />
+    <edge source="FATF" target="FIU" />
+    <edge source="FATF" target="HM TREASURY" />
+    <edge source="FATF" target="IMF" />
+    <edge source="FATF" target="INTERNATIONAL ORGANISATION" />
+    <edge source="FATF" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="FATF" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="FATF" target="LEGAL PERSON" />
+    <edge source="FATF" target="LOCAL TERRORIST LIST" />
+    <edge source="FATF" target="MONEY LAUNDERING REPORTING OFFICER (MLRO)" />
+    <edge source="FATF" target="REGULATED FINANCIAL INSTITUTION" />
+    <edge source="FATF" target="WORLD BANK" />
+    <edge source="FATF" target="OECD" />
+    <edge source="FATF" target="CREDIBLE SOURCE" />
+    <edge source="FATF" target="GROUP" />
+    <edge source="FATF" target="MENAFATF" />
+    <edge source="FATF" target="GULF CO-OPERATION COUNCIL" />
+    <edge source="FATF" target="SERVICE PROVIDER" />
+    <edge source="FATF" target="RULE 10.3.2" />
+    <edge source="FATF" target="SWIFT" />
+    <edge source="FATF" target="CDD" />
+    <edge source="FATF" target="AML/TFS" />
+    <edge source="FATF" target="WIRE TRANSFER" />
+    <edge source="FATF" target="VIRTUAL ASSETS" />
+    <edge source="FATF" target="BATCH TRANSFER" />
+    <edge source="FATF" target="ORIGINATOR" />
+    <edge source="FATF" target="BENEFICIARY" />
+    <edge source="FATF" target="ACCOUNT HOLDER" />
+    <edge source="FATF" target="ACCOUNT NUMBER" />
+    <edge source="FATF" target="WALLET ADDRESS" />
+    <edge source="FATF" target="TRAVEL RULE" />
+    <edge source="FATF" target="FATF INTERPRETATIVE NOTE (R.15/INR.15)" />
+    <edge source="FATF" target="AUTHORISED PERSON" />
+    <edge source="FATF" target="GOVERNMENT OF THE U.A.E." />
+    <edge source="FATF" target="CENTRAL BANK OF THE U.A.E." />
+    <edge source="FATF" target="NAMLCFTC" />
+    <edge source="FATF" target="UNSC" />
+    <edge source="FATF" target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="LOCAL TERRORIST LIST" target="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" />
+    <edge source="LOCAL TERRORIST LIST" target="FINANCIAL INSTITUTION" />
+    <edge source="LOCAL TERRORIST LIST" target="FINANCIAL SERVICES REGULATOR" />
+    <edge source="LOCAL TERRORIST LIST" target="FSMR" />
+    <edge source="LOCAL TERRORIST LIST" target="U.A.E. CABINET" />
+    <edge source="LOCAL TERRORIST LIST" target="TERRORIST FINANCING" />
+    <edge source="CDD" target="BRANCH" />
+    <edge source="CDD" target="SUBSIDIARY" />
+    <edge source="CDD" target="GROUP" />
+    <edge source="CDD" target="AML/TFS" />
+    <edge source="CDD" target="CUSTOMER RISK ASSESSMENT" />
+    <edge source="CDD" target="RULE 6.2.1(C)" />
+    <edge source="CDD" target="RULE 8.6.1" />
+    <edge source="CDD" target="CHAPTER 8" />
+    <edge source="CDD" target="RISK ASSESSMENT" />
+    <edge source="CDD" target="ENHANCED CDD" />
+    <edge source="CDD" target="SIMPLIFIED CDD" />
+    <edge source="CDD" target="SERVICE PROVIDER" />
+    <edge source="CDD" target="AUTHORISED PERSON" />
+    <edge source="CDD" target="AGENT" />
+    <edge source="CDD" target="PAYMENT TRANSACTION" />
+    <edge source="CDD" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" />
+    <edge source="CDD" target="RULE &#8206;8.3.1" />
+    <edge source="CDD" target="CORRESPONDENT BANKING" />
+    <edge source="CDD" target="RESPONDENT BANK" />
+    <edge source="CDD" target="SHELL BANK" />
+    <edge source="CDD" target="RULE 10.3.2" />
+    <edge source="CDD" target="SAR/STR" />
+    <edge source="CDD" target="BENEFICIAL OWNER" />
+    <edge source="EMPLOYEE(S)" target="ARTICLE 27 OF FEDERAL DECREE LAW NO. (20) OF 2018" />
+    <edge source="DIRECTORS" target="ARTICLE 27 OF FEDERAL DECREE LAW NO. (20) OF 2018" />
+    <edge source="UNSC" target="GOVERNMENT OF THE U.A.E." />
+    <edge source="UNSC" target="CENTRAL BANK OF THE U.A.E." />
+    <edge source="UNSC" target="FIU" />
+    <edge source="UNSC" target="NAMLCFTC" />
+    <edge source="UNSC" target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="FINANCIAL ACTION TASK FORCE" target="BASEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="FINANCIAL ACTION TASK FORCE" target="WOLFSBERG GROUP" />
+    <edge source="UNITED NATIONS SECURITY COUNCIL" target="SANCTIONS" />
+    <edge source="EUROPEAN UNION" target="SANCTIONS" />
+    <edge source="CUSTOMER" target="BENEFICIAL OWNER" />
+    <edge source="CUSTOMER" target="AUTHORISED PERSON" />
+    <edge source="CUSTOMER" target="RULE 8.3.1" />
+    <edge source="CUSTOMER" target="RULE 7.1.1(3)" />
+    <edge source="CUSTOMER" target="RULE 7.1.2" />
+    <edge source="CUSTOMER" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="CUSTOMER" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="CUSTOMER" target="ENHANCED CDD" />
+    <edge source="CUSTOMER" target="SIMPLIFIED CDD" />
+    <edge source="CUSTOMER" target="TRANSACTION" />
+    <edge source="CUSTOMER" target="RULE 8.4.1" />
+    <edge source="CUSTOMER" target="RULE 8.1.1(4)" />
+    <edge source="CUSTOMER" target="TRANSACTIONS" />
+    <edge source="CUSTOMER" target="THIRD PARTY" />
+    <edge source="CUSTOMER" target="ACQUIRED BUSINESS" />
+    <edge source="CUSTOMER" target="SAR/STR" />
+    <edge source="COUNTERPARTY" target="ADGM ENTITY" />
+    <edge source="COUNTERPARTY" target="AUTHORISED PERSON" />
+    <edge source="COUNTERPARTY" target="CLIENT" />
+    <edge source="COUNTERPARTY" target="CORRESPONDENT BANK" />
+    <edge source="COUNTERPARTY" target="CORRESPONDENT BANKING CLIENT" />
+    <edge source="COUNTERPARTY" target="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" />
+    <edge source="ADGM ENTITY" target="AUTHORISED PERSON" />
+    <edge source="ADGM ENTITY" target="CORRESPONDENT BANKING CLIENT" />
+    <edge source="ADGM ENTITY" target="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" />
+    <edge source="AUTHORISED PERSON" target="CORRESPONDENT BANKING CLIENT" />
+    <edge source="AUTHORISED PERSON" target="CLIENT" />
+    <edge source="AUTHORISED PERSON" target="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" />
+    <edge source="AUTHORISED PERSON" target="BRANCH" />
+    <edge source="AUTHORISED PERSON" target="SUBSIDIARY" />
+    <edge source="AUTHORISED PERSON" target="GROUP" />
+    <edge source="AUTHORISED PERSON" target="FIU" />
+    <edge source="AUTHORISED PERSON" target="OECD" />
+    <edge source="AUTHORISED PERSON" target="ABU DHABI GLOBAL MARKET (ADGM)" />
+    <edge source="AUTHORISED PERSON" target="SANCTIONS" />
+    <edge source="AUTHORISED PERSON" target="CUSTOMER DUE DILIGENCE" />
+    <edge source="AUTHORISED PERSON" target="AGENT" />
+    <edge source="AUTHORISED PERSON" target="PAYMENT TRANSACTION" />
+    <edge source="AUTHORISED PERSON" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" />
+    <edge source="AUTHORISED PERSON" target="CORRESPONDENT BANKING" />
+    <edge source="AUTHORISED PERSON" target="RESPONDENT BANK" />
+    <edge source="AUTHORISED PERSON" target="SHELL BANK" />
+    <edge source="AUTHORISED PERSON" target="RULE &#8206;8.3.1" />
+    <edge source="AUTHORISED PERSON" target="PRU 6.8" />
+    <edge source="AUTHORISED PERSON" target="RULE 8.3.1" />
+    <edge source="AUTHORISED PERSON" target="RULE 9.2" />
+    <edge source="AUTHORISED PERSON" target="RULE 10.3.2" />
+    <edge source="AUTHORISED PERSON" target="FATF RECOMMENDATION NUMBER 15" />
+    <edge source="AUTHORISED PERSON" target="FATF RECOMMENDATION NUMBER 16" />
+    <edge source="AUTHORISED PERSON" target="BANK" />
+    <edge source="AUTHORISED PERSON" target="CORRESPONDENT BANKING RELATIONSHIP" />
+    <edge source="AUTHORISED PERSON" target="AML/TFS" />
+    <edge source="AUTHORISED PERSON" target="WIRE TRANSFER" />
+    <edge source="AUTHORISED PERSON" target="VIRTUAL ASSETS" />
+    <edge source="AUTHORISED PERSON" target="BATCH TRANSFER" />
+    <edge source="AUTHORISED PERSON" target="ORIGINATOR" />
+    <edge source="AUTHORISED PERSON" target="BENEFICIARY" />
+    <edge source="AUTHORISED PERSON" target="ACCOUNT HOLDER" />
+    <edge source="AUTHORISED PERSON" target="ACCOUNT NUMBER" />
+    <edge source="AUTHORISED PERSON" target="WALLET ADDRESS" />
+    <edge source="AUTHORISED PERSON" target="TRAVEL RULE" />
+    <edge source="AUTHORISED PERSON" target="FATF INTERPRETATIVE NOTE (R.15/INR.15)" />
+    <edge source="AUTHORISED PERSON" target="RULE 10.3.2(3)" />
+    <edge source="AUTHORISED PERSON" target="RULE 10.4.1" />
+    <edge source="AUTHORISED PERSON" target="RULE 11.1.1" />
+    <edge source="AUTHORISED PERSON" target="CABINET DECISION NO. 74 OF 2020" />
+    <edge source="AUTHORISED PERSON" target="RULE 11.1.1(2)" />
+    <edge source="AUTHORISED PERSON" target="RULE 11.1.1(3)" />
+    <edge source="AUTHORISED PERSON" target="RULE 11.1.1(6)" />
+    <edge source="AUTHORISED PERSON" target="RULE 11.1.1(7)" />
+    <edge source="AUTHORISED PERSON" target="RULE 11.1.1(8)" />
+    <edge source="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" target="CLIENT" />
+    <edge source="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" target="CORRESPONDENT BANK" />
+    <edge source="DESIGNATED NON-FINANCIAL BUSINESS OR PROFESSION (DNFBP)" target="CORRESPONDENT BANKING CLIENT" />
+    <edge source="CORRESPONDENT BANKING CLIENT" target="CLIENT" />
+    <edge source="CORRESPONDENT BANKING CLIENT" target="CORRESPONDENT BANK" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="FINANCIAL INSTITUTION" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="FINANCIAL SERVICES REGULATOR" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="FSMR" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="GOAML" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="FIU" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="HM TREASURY" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="IMF" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="INTERNATIONAL ORGANISATION" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="LEGAL PERSON" />
+    <edge source="EXECUTIVE OFFICE FOR CONTROL AND NON-PROLIFERATION (EOCN)" target="MONEY LAUNDERING REPORTING OFFICER (MLRO)" />
+    <edge source="FINANCIAL INSTITUTION" target="FINANCIAL SERVICES REGULATOR" />
+    <edge source="FINANCIAL INSTITUTION" target="FSMR" />
+    <edge source="FINANCIAL INSTITUTION" target="GOAML" />
+    <edge source="FINANCIAL INSTITUTION" target="FIU" />
+    <edge source="FINANCIAL INSTITUTION" target="HM TREASURY" />
+    <edge source="FINANCIAL INSTITUTION" target="IMF" />
+    <edge source="FINANCIAL INSTITUTION" target="INTERNATIONAL ORGANISATION" />
+    <edge source="FINANCIAL INSTITUTION" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="FINANCIAL INSTITUTION" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="FINANCIAL INSTITUTION" target="LEGAL PERSON" />
+    <edge source="FINANCIAL INSTITUTION" target="MONEY LAUNDERING REPORTING OFFICER (MLRO)" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="FSMR" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="GOAML" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="FIU" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="HM TREASURY" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="IMF" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="INTERNATIONAL ORGANISATION" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="LEGAL PERSON" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="MONEY LAUNDERING REPORTING OFFICER (MLRO)" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="REGULATED FINANCIAL INSTITUTION" />
+    <edge source="FINANCIAL SERVICES REGULATOR" target="GROUP ENTITIES" />
+    <edge source="FSMR" target="GOAML" />
+    <edge source="FSMR" target="FIU" />
+    <edge source="FSMR" target="HM TREASURY" />
+    <edge source="FSMR" target="IMF" />
+    <edge source="FSMR" target="INTERNATIONAL ORGANISATION" />
+    <edge source="FSMR" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="FSMR" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="FSMR" target="LEGAL PERSON" />
+    <edge source="GOAML" target="PNMR" />
+    <edge source="GOAML" target="NAMLCFTC" />
+    <edge source="GOAML" target="FIU" />
+    <edge source="GOAML" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="GOAML" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="GOAML" target="BENEFICIAL OWNER" />
+    <edge source="GOAML" target="ENHANCED CDD" />
+    <edge source="GOAML" target="SIMPLIFIED CDD" />
+    <edge source="GOAML" target="TRANSACTION" />
+    <edge source="GOAML" target="HIGH RISK COUNTRY TRANSACTION REPORT" />
+    <edge source="GOAML" target="HIGH RISK COUNTRY ACTIVITY REPORT" />
+    <edge source="GOAML" target="SAR/STR" />
+    <edge source="FIU" target="BRANCH" />
+    <edge source="FIU" target="SUBSIDIARY" />
+    <edge source="FIU" target="GROUP" />
+    <edge source="FIU" target="OECD" />
+    <edge source="FIU" target="ABU DHABI GLOBAL MARKET (ADGM)" />
+    <edge source="FIU" target="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" />
+    <edge source="FIU" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="FIU" target="BENEFICIAL OWNER" />
+    <edge source="FIU" target="ENHANCED CDD" />
+    <edge source="FIU" target="SIMPLIFIED CDD" />
+    <edge source="FIU" target="TRANSACTION" />
+    <edge source="FIU" target="HIGH RISK COUNTRY TRANSACTION REPORT" />
+    <edge source="FIU" target="HIGH RISK COUNTRY ACTIVITY REPORT" />
+    <edge source="FIU" target="GOVERNMENT OF THE U.A.E." />
+    <edge source="FIU" target="CENTRAL BANK OF THE U.A.E." />
+    <edge source="FIU" target="NAMLCFTC" />
+    <edge source="FIU" target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="FIU" target="SAR/STR" />
+    <edge source="IMF" target="CREDIBLE SOURCE" />
+    <edge source="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" target="NAMLCFTC" />
+    <edge source="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" target="JURISDICTIONS UNDER INCREASED MONITORING" />
+    <edge source="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" target="BENEFICIAL OWNER" />
+    <edge source="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" target="ENHANCED CDD" />
+    <edge source="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" target="SIMPLIFIED CDD" />
+    <edge source="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" target="TRANSACTION" />
+    <edge source="JURISDICTIONS SUBJECT TO A CALL FOR ACTION" target="RULE 8.4.1" />
+    <edge source="JURISDICTIONS UNDER INCREASED MONITORING" target="NAMLCFTC" />
+    <edge source="JURISDICTIONS UNDER INCREASED MONITORING" target="BENEFICIAL OWNER" />
+    <edge source="JURISDICTIONS UNDER INCREASED MONITORING" target="ENHANCED CDD" />
+    <edge source="JURISDICTIONS UNDER INCREASED MONITORING" target="SIMPLIFIED CDD" />
+    <edge source="JURISDICTIONS UNDER INCREASED MONITORING" target="TRANSACTION" />
+    <edge source="JURISDICTIONS UNDER INCREASED MONITORING" target="RULE 8.4.1" />
+    <edge source="MONEY LAUNDERING REPORTING OFFICER (MLRO)" target="ANTI-MONEY LAUNDERING (AML)" />
+    <edge source="RULE &#8206;8.3.3(4)" target="BODY CORPORATE" />
+    <edge source="BODY CORPORATE" target="PARENT" />
+    <edge source="BODY CORPORATE" target="SHAREHOLDER" />
+    <edge source="BODY CORPORATE" target="BENEFICIAL OWNER" />
+    <edge source="PARENT" target="HOLDING COMPANY" />
+    <edge source="SHAREHOLDER" target="ISSUER" />
+    <edge source="RULE" target="REGULATED FINANCIAL INSTITUTION" />
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="PAYMENT TRANSACTION" />
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="RESTRICTED SCOPE COMPANY" />
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="SHELL BANK" />
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="FINANCIAL SERVICES REGULATORY AUTHORITY" />
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="FINANCIAL SERVICES PERMISSION" />
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="SUBSIDIARY OF A REGULATED FINANCIAL INSTITUTION" />
+    <edge source="REGULATED FINANCIAL INSTITUTION" target="REGULATED EXCHANGE" />
+    <edge source="OFFICE OF FOREIGN ASSETS CONTROL (OFAC)" target="SANCTIONS" />
+    <edge source="SANCTIONS" target="POLITICALLY EXPOSED PERSON (PEP)" />
+    <edge source="SANCTIONS" target="SANCTIONS LIST" />
+    <edge source="SANCTIONS" target="HM TREASURY OF THE UNITED KINGDOM" />
+    <edge source="SANCTIONS" target="BRANCH" />
+    <edge source="SANCTIONS" target="SUBSIDIARY" />
+    <edge source="SANCTIONS" target="GROUP" />
+    <edge source="PARTNER" target="PARTNERSHIP" />
+    <edge source="PARTNERSHIP" target="BENEFICIAL OWNER" />
+    <edge source="PAYMENT TRANSACTION" target="RULE &#8206;9.3.1" />
+    <edge source="PENAL CODE" target="AML/TFS" />
+    <edge source="RECOGNISED INVESTMENT EXCHANGE" target="RULE 11.1.1(5)" />
+    <edge source="RECOGNISED CLEARING HOUSE" target="RULE 11.1.1(5)" />
+    <edge source="FINANCIAL SERVICES REGULATORY AUTHORITY" target="RECOGNITION ORDER" />
+    <edge source="FINANCIAL SERVICES REGULATORY AUTHORITY" target="REGULATED ACTIVITY" />
+    <edge source="FINANCIAL SERVICES REGULATORY AUTHORITY" target="FINANCIAL SERVICES PERMISSION" />
+    <edge source="FINANCIAL SERVICES REGULATORY AUTHORITY" target="FINANCIAL SERVICES REGULATORY AUTHORITY" />
+    <edge source="RESTRICTED SCOPE COMPANY" target="ADGM REGISTRAR OF COMPANIES" />
+    <edge source="BRANCH" target="GROUP" />
+    <edge source="BRANCH" target="SUBSIDIARY" />
+    <edge source="BRANCH" target="OECD" />
+    <edge source="BRANCH" target="ABU DHABI GLOBAL MARKET (ADGM)" />
+    <edge source="BRANCH" target="EKYC" />
+    <edge source="BRANCH" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" />
+    <edge source="BRANCH" target="BIOMETRIC AUTHENTICATION" />
+    <edge source="ISSUER" target="DEPOSITORY RECEIPT" />
+    <edge source="NAMLCFTC" target="BENEFICIAL OWNER" />
+    <edge source="NAMLCFTC" target="ENHANCED CDD" />
+    <edge source="NAMLCFTC" target="SIMPLIFIED CDD" />
+    <edge source="NAMLCFTC" target="TRANSACTION" />
+    <edge source="NAMLCFTC" target="GOVERNMENT OF THE U.A.E." />
+    <edge source="NAMLCFTC" target="CENTRAL BANK OF THE U.A.E." />
+    <edge source="NAMLCFTC" target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="GROUP ENTITIES" target="FATF RECOMMENDATIONS" />
+    <edge source="GROUP ENTITIES" target="FOREIGN JURISDICTION" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="SUBSIDIARY" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="GROUP" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="CUSTOMER IDENTIFICATION UPDATES" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="IDENTIFICATION DOCUMENT VERIFICATION" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="ONGOING MONITORING PROGRAMME" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="MONETARY THRESHOLD" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="TRANSACTION TYPE" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="CUSTOMER RISK ASSESSMENT" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="UNUSUAL TRANSACTION" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="CUSTOMER RELATIONSHIP" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="TIPPING OFF" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORT" target="RULE &#8206;9.3.1" />
+    <edge source="WAIVER" target="RULE 5.1.1" />
+    <edge source="WAIVER" target="RULE 4.5.1" />
+    <edge source="TRANSACTION" target="ENHANCED CDD" />
+    <edge source="TRANSACTION" target="SIMPLIFIED CDD" />
+    <edge source="TRANSACTION" target="HIGH RISK COUNTRY TRANSACTION REPORT" />
+    <edge source="TRANSACTION" target="HIGH RISK COUNTRY ACTIVITY REPORT" />
+    <edge source="TRANSACTION" target="RULE 8.4.1" />
+    <edge source="TRANSACTION" target="RULE 8.1.1(4)" />
+    <edge source="TRANSACTION" target="RULE 8.3.1" />
+    <edge source="EMPLOYEES" target="SAR/STR" />
+    <edge source="EMPLOYEES" target="RULE 14.2.2" />
+    <edge source="EMPLOYEES" target="LINE MANAGER" />
+    <edge source="EMPLOYEES" target="BENEFICIAL OWNER" />
+    <edge source="ABU DHABI GLOBAL MARKET (ADGM)" target="SUBSIDIARY" />
+    <edge source="ABU DHABI GLOBAL MARKET (ADGM)" target="OECD" />
+    <edge source="ABU DHABI GLOBAL MARKET (ADGM)" target="BUSINESS DAY" />
+    <edge source="SUBSIDIARY" target="GROUP" />
+    <edge source="SUBSIDIARY" target="OECD" />
+    <edge source="SUBSIDIARY" target="EKYC" />
+    <edge source="SUBSIDIARY" target="BIOMETRIC AUTHENTICATION" />
+    <edge source="GROUP" target="OECD" />
+    <edge source="GROUP" target="EKYC" />
+    <edge source="GROUP" target="BIOMETRIC AUTHENTICATION" />
+    <edge source="GROUP" target="NON-ADGM FINANCIAL SERVICES REGULATOR" />
+    <edge source="GROUP" target="RULE 9.3.1" />
+    <edge source="GROUP" target="RULE 9.3.1A" />
+    <edge source="GROUP" target="U.A.E. AUTHORITIES" />
+    <edge source="GROUP" target="AGENT" />
+    <edge source="OECD" target="CREDIBLE SOURCE" />
+    <edge source="EKYC" target="BIOMETRIC AUTHENTICATION" />
+    <edge source="EKYC" target="SERVICE PROVIDER" />
+    <edge source="RULE 4.5.1" target="ANNUAL AML RETURN" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1" />
+    <edge source="RULE 4.5.1" target="RULE 5.1.1" />
+    <edge source="RULE 4.5.1" target="RULE 6.1.1" />
+    <edge source="RULE 4.5.1" target="RULE 7.1.1" />
+    <edge source="RULE 4.5.1" target="RULE 14.2.2" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.7" />
+    <edge source="RULE 4.5.1" target="RULE 4.8.1" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1(1)(A)" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1(1)(B)" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1(1)(C)" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1(1)(D)" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1(1)(E)" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.1(1)" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.1(2)" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.1(3)" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.1(4)" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1(2)" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1(2)(A)" />
+    <edge source="RULE 4.5.1" target="RULE 4.6.1(2)(B)" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.7(1)" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.7(1)(A)" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.7(1)(B)" />
+    <edge source="RULE 4.5.1" target="RULE 4.5.7(1)(C)" />
+    <edge source="RULE 6.1.1" target="RULE 6.1.2" />
+    <edge source="RULE 6.1.1" target="RULE 5.1.1" />
+    <edge source="RULE 6.1.1" target="RULE 7.1.1" />
+    <edge source="RULE 7.1.1" target="RULE 14.2.2" />
+    <edge source="RULE 7.1.1" target="RULE 5.1.1" />
+    <edge source="RULE 14.2.2" target="RULE 5.1.1" />
+    <edge source="RULE 14.2.2" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" />
+    <edge source="RULE 14.2.2" target="BENEFICIAL OWNER" />
+    <edge source="RULE 4.6.1" target="RULE 5.1.1" />
+    <edge source="RULE 4.5.7" target="RULE 4.8.1" />
+    <edge source="RULE 4.5.7" target="RULE 5.1.1" />
+    <edge source="RULE 5.1.1" target="ANNUAL AML RETURN" />
+    <edge source="RULE 5.1.1" target="RULE 4.8.1" />
+    <edge source="RBA" target="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" />
+    <edge source="RBA" target="CDD MEASURES" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="CUSTOMER IDENTIFICATION UPDATES" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="IDENTIFICATION DOCUMENT VERIFICATION" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="ONGOING MONITORING PROGRAMME" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="MONETARY THRESHOLD" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="TRANSACTION TYPE" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="CUSTOMER RELATIONSHIP" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="UNUSUAL TRANSACTION" />
+    <edge source="CUSTOMER RISK ASSESSMENT" target="TIPPING OFF" />
+    <edge source="RULE 8.3.1" target="SIMPLIFIED CDD" />
+    <edge source="RULE 8.4.1" target="PEP" />
+    <edge source="RULE 8.4.1" target="ENHANCED CDD" />
+    <edge source="RULE 8.1.1(4)" target="SIMPLIFIED CDD" />
+    <edge source="BENEFICIAL OWNER" target="RULE 8.3.1(1)(B)" />
+    <edge source="BENEFICIAL OWNER" target="RULE 8.3.3" />
+    <edge source="BENEFICIAL OWNER" target="RULE 8.3.4" />
+    <edge source="BENEFICIAL OWNER" target="ENHANCED CDD" />
+    <edge source="BENEFICIAL OWNER" target="SIMPLIFIED CDD" />
+    <edge source="BENEFICIAL OWNER" target="TRANSACTIONS" />
+    <edge source="BENEFICIAL OWNER" target="THIRD PARTY" />
+    <edge source="BENEFICIAL OWNER" target="ACQUIRED BUSINESS" />
+    <edge source="BENEFICIAL OWNER" target="SAR/STR" />
+    <edge source="BENEFICIAL OWNER" target="LINE MANAGER" />
+    <edge source="AML/TFS" target="RULE 10.3.2" />
+    <edge source="NFTF BUSINESS" target="EKYC SYSTEMS" />
+    <edge source="NFTF BUSINESS" target="REGLAB" />
+    <edge source="RULE 8.6.1" target="BENEFICIARY" />
+    <edge source="WORLD BANK" target="CREDIBLE SOURCE" />
+    <edge source="SUBSIDIARY OF A REGULATED FINANCIAL INSTITUTION" target="PARENT OF A SUBSIDIARY" />
+    <edge source="ENHANCED CDD" target="SIMPLIFIED CDD" />
+    <edge source="ACCOUNT HOLDER" target="RULE 10.3.2" />
+    <edge source="RULE 8.7.1" target="RULE 14.3.1(C)" />
+    <edge source="RULE 8.7.1" target="RULE 7.1.1(1)(B)" />
+    <edge source="TIPPING OFF" target="CUSTOMER IDENTIFICATION UPDATES" />
+    <edge source="TIPPING OFF" target="IDENTIFICATION DOCUMENT VERIFICATION" />
+    <edge source="TIPPING OFF" target="ONGOING MONITORING PROGRAMME" />
+    <edge source="TIPPING OFF" target="MONETARY THRESHOLD" />
+    <edge source="TIPPING OFF" target="TRANSACTION TYPE" />
+    <edge source="TIPPING OFF" target="UNUSUAL TRANSACTION" />
+    <edge source="TIPPING OFF" target="CUSTOMER RELATIONSHIP" />
+    <edge source="TIPPING OFF" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="BENEFICIARY" target="TRUST" />
+    <edge source="BENEFICIARY" target="RULE 10.3.2" />
+    <edge source="TRUST" target="SETTLOR" />
+    <edge source="TRUST" target="TRUSTEE" />
+    <edge source="FOUNDATION" target="FOUNDER" />
+    <edge source="FOUNDATION" target="FOUNDATION COUNCIL" />
+    <edge source="FOUNDATION" target="GUARDIAN" />
+    <edge source="LISTED BODY CORPORATE" target="RULE 8.3.1(1)(B)" />
+    <edge source="FEDERAL GOVERNMENT OF THE U.A.E." target="RULE 8.3.1(1)(B)" />
+    <edge source="MEMBER EMIRATES OF THE U.A.E." target="RULE 8.3.1(1)(B)" />
+    <edge source="EMIRI DECREE" target="RULE 8.3.1(1)(B)" />
+    <edge source="RULE 8.3.1(1)(D)" target="RULE 8.6.1(D)" />
+    <edge source="RULE 8.3.1(1)(D)" target="RULE 8.6.1(E)" />
+    <edge source="RULE 8.3.1(1)(D)" target="RULE 7.1.1(1)(B)" />
+    <edge source="RULE 8.6.1(D)" target="RULE 8.6.1(E)" />
+    <edge source="RULE 8.6.1(D)" target="RULE 7.1.1(1)(B)" />
+    <edge source="RULE 8.6.1(D)" target="SANCTIONS LISTS" />
+    <edge source="RULE 8.6.1(E)" target="RULE 7.1.1(1)(B)" />
+    <edge source="RULE 7.1.1(1)(B)" target="RULE 14.3.1(C)" />
+    <edge source="RULE 14.3.1(C)" target="FINANCIAL INTELLIGENCE UNIT (FIU)" />
+    <edge source="SANCTIONS LISTS" target="FINANCIAL INTELLIGENCE UNIT (FIU)" />
+    <edge source="CUSTOMER RELATIONSHIP" target="CUSTOMER IDENTIFICATION UPDATES" />
+    <edge source="CUSTOMER RELATIONSHIP" target="IDENTIFICATION DOCUMENT VERIFICATION" />
+    <edge source="CUSTOMER RELATIONSHIP" target="ONGOING MONITORING PROGRAMME" />
+    <edge source="CUSTOMER RELATIONSHIP" target="MONETARY THRESHOLD" />
+    <edge source="CUSTOMER RELATIONSHIP" target="TRANSACTION TYPE" />
+    <edge source="CUSTOMER RELATIONSHIP" target="UNUSUAL TRANSACTION" />
+    <edge source="CUSTOMER RELATIONSHIP" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="CUSTOMER IDENTIFICATION UPDATES" target="IDENTIFICATION DOCUMENT VERIFICATION" />
+    <edge source="CUSTOMER IDENTIFICATION UPDATES" target="ONGOING MONITORING PROGRAMME" />
+    <edge source="CUSTOMER IDENTIFICATION UPDATES" target="MONETARY THRESHOLD" />
+    <edge source="CUSTOMER IDENTIFICATION UPDATES" target="TRANSACTION TYPE" />
+    <edge source="CUSTOMER IDENTIFICATION UPDATES" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="CUSTOMER IDENTIFICATION UPDATES" target="UNUSUAL TRANSACTION" />
+    <edge source="IDENTIFICATION DOCUMENT VERIFICATION" target="ONGOING MONITORING PROGRAMME" />
+    <edge source="IDENTIFICATION DOCUMENT VERIFICATION" target="MONETARY THRESHOLD" />
+    <edge source="IDENTIFICATION DOCUMENT VERIFICATION" target="TRANSACTION TYPE" />
+    <edge source="IDENTIFICATION DOCUMENT VERIFICATION" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="IDENTIFICATION DOCUMENT VERIFICATION" target="UNUSUAL TRANSACTION" />
+    <edge source="ONGOING MONITORING PROGRAMME" target="MONETARY THRESHOLD" />
+    <edge source="ONGOING MONITORING PROGRAMME" target="TRANSACTION TYPE" />
+    <edge source="ONGOING MONITORING PROGRAMME" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="ONGOING MONITORING PROGRAMME" target="UNUSUAL TRANSACTION" />
+    <edge source="MONETARY THRESHOLD" target="TRANSACTION TYPE" />
+    <edge source="MONETARY THRESHOLD" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="MONETARY THRESHOLD" target="UNUSUAL TRANSACTION" />
+    <edge source="TRANSACTION TYPE" target="CDD DOCUMENTATION REQUIREMENTS" />
+    <edge source="TRANSACTION TYPE" target="UNUSUAL TRANSACTION" />
+    <edge source="CDD DOCUMENTATION REQUIREMENTS" target="UNUSUAL TRANSACTION" />
+    <edge source="THIRD PARTY" target="NON-ADGM FINANCIAL SERVICES REGULATOR" />
+    <edge source="THIRD PARTY" target="SAR/STR" />
+    <edge source="SERVICE PROVIDER" target="RULE 9.3.1" />
+    <edge source="SERVICE PROVIDER" target="RULE 9.3.1A" />
+    <edge source="SERVICE PROVIDER" target="U.A.E. AUTHORITIES" />
+    <edge source="RULE 10.3.2" target="SWIFT" />
+    <edge source="RULE 10.3.2" target="FATF RECOMMENDATION NUMBER 16" />
+    <edge source="RULE 10.3.2" target="WIRE TRANSFER" />
+    <edge source="RULE 10.3.2" target="VIRTUAL ASSETS" />
+    <edge source="RULE 10.3.2" target="BATCH TRANSFER" />
+    <edge source="RULE 10.3.2" target="ORIGINATOR" />
+    <edge source="RULE 10.3.2" target="ACCOUNT NUMBER" />
+    <edge source="RULE 10.3.2" target="WALLET ADDRESS" />
+    <edge source="RULE 10.3.2" target="TRAVEL RULE" />
+    <edge source="RULE 10.3.2" target="FATF INTERPRETATIVE NOTE (R.15/INR.15)" />
+    <edge source="CABINET DECISION NO. 74 OF 2020" target="RULE 11.1.1" />
+    <edge source="CABINET DECISION NO. 74 OF 2020" target="RULE 11.1.1(8)" />
+    <edge source="RULE 11.1.1" target="RULE 11.1.1(1)" />
+    <edge source="RULE 11.1.1" target="RULE 11.1.1(2)" />
+    <edge source="RULE 11.1.1" target="RULE 11.1.1(3)" />
+    <edge source="RULE 11.1.1" target="RULE 11.1.1(4)" />
+    <edge source="RULE 11.1.1" target="RULE 11.1.1(5)" />
+    <edge source="RULE 11.1.1" target="RULE 11.1.1(6)" />
+    <edge source="RULE 11.1.1" target="RULE 11.1.1(7)" />
+    <edge source="RULE 11.1.1" target="RULE 11.1.1(8)" />
+    <edge source="EOCN" target="SAR/STR" />
+    <edge source="GOVERNMENT OF THE U.A.E." target="CENTRAL BANK OF THE U.A.E." />
+    <edge source="GOVERNMENT OF THE U.A.E." target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="CENTRAL BANK OF THE U.A.E." target="BASHEL COMMITTEE ON BANKING SUPERVISION" />
+    <edge source="TIRUZIA" target="SAMUEL NAMARA" />
+    <edge source="SAMUEL NAMARA" target="ALHAMIA PRISON" />
+    <edge source="BRATINAS" target="MEGGIE TAZBAH" />
+    <edge source="MEGGIE TAZBAH" target="FIRUZABAD" />
+    <edge source="VISION HOLDINGS" target="TECHGLOBAL" />
+    <edge source="TECHGLOBAL" target="GLOBAL EXCHANGE" />
+    <edge source="DURKE BATAGLANI" target="FIRUZABAD" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" target="CDD MEASURES" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" target="RULE 13.1.1" />
+    <edge source="SUSPICIOUS ACTIVITY/TRANSACTION REPORTS" target="CHAPTER 11" />
+    <edge source="CDD MEASURES" target="RULE 13.1.1" />
+    <edge source="CDD MEASURES" target="CHAPTER 11" />
+    <edge source="REGISTRAR OF COMPANIES" target="FIT AND PROPER CO-ORDINATION" />
+  </graph>
+</graphml>
